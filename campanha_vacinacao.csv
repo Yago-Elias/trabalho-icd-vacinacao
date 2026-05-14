@@ -1,0 +1,1001 @@
+id_paciente,idade,sexo,municipio,zona,escolaridade,renda_familiar_sm,vacina,dose,data_vacinacao,unidade_saude,tempo_espera_min,distancia_posto_km,reacao_adversa,vacinado_anteriormente
+PAC0001,48,Masculino,Sobral,Rural,Fundamental,0.8,Febre Amarela,1ª Dose,2023-07-01,UBS-022,11.0,5.5,Não,Não
+PAC0002,20,Feminino,Fortaleza,Urbana,Médio,1.4,Influenza,2ª Dose,2024-02-13,UBS-013,28.0,11.4,Não,Sim
+PAC0003,51,Feminino,Fortaleza,Urbana,,4.2,COVID-19,1ª Dose,2023-03-26,UBS-012,36.0,3.3,,Não
+PAC0004,55,Feminino,Fortaleza,Periurbana,Fundamental,1.8,COVID-19,Reforço,2024-06-23,UBS-030,12.0,2.5,Não,Sim
+PAC0005,55,Masculino,Fortaleza,Urbana,Médio,1.9,COVID-19,1ª Dose,2024-09-29,UBS-010,5.0,12.0,Não,Sim
+PAC0006,64,Masculino,Juazeiro do Norte,Urbana,Médio,2.8,Hepatite B,Reforço,2024-10-29,UBS-003,58.0,1.0,Não,Sim
+PAC0007,60,Masculino,Fortaleza,Periurbana,Médio,2.1,Tétano,2ª Dose,2024-12-07,UBS-004,13.0,1.1,Não,Sim
+PAC0008,53,Feminino,Juazeiro do Norte,Rural,Fundamental,4.1,COVID-19,Reforço,2024-12-30,UBS-001,7.0,2.3,Não,Sim
+PAC0009,43,Feminino,Quixadá,Rural,Fundamental,2.0,Hepatite B,3ª Dose,2024-02-02,UBS-013,18.0,16.6,,Sim
+PAC0010,18,Feminino,Juazeiro do Norte,Rural,Sem escolaridade,2.0,Febre Amarela,Reforço,2023-02-01,UBS-024,34.0,5.5,Não,Sim
+PAC0011,52,Masculino,Iguatu,Urbana,Médio,6.9,Influenza,1ª Dose,2024-01-07,UBS-004,10.0,4.5,Não,Não
+PAC0012,48,Feminino,Sobral,Urbana,Médio,,Hepatite B,Dose Única,2024-12-22,UBS-022,11.0,,Não,Sim
+PAC0013,49,Feminino,Fortaleza,Urbana,Superior,2.5,Febre Amarela,Reforço,2023-04-30,UBS-011,10.0,3.2,Não,Não
+PAC0014,22,Masculino,Caucaia,Urbana,Médio,2.0,COVID-19,1ª Dose,2023-09-26,UBS-019,100.0,,Sim,Sim
+PAC0015,25,Masculino,Fortaleza,Urbana,Médio,0.7,COVID-19,1ª Dose,2024-09-17,UBS-011,9.0,3.0,Não,Não
+PAC0016,63,Masculino,Caucaia,Periurbana,Médio,3.4,COVID-19,2ª Dose,2023-08-01,UBS-012,22.0,9.3,Não,Sim
+PAC0017,44,Masculino,Crato,Rural,Sem escolaridade,5.1,Tétano,Reforço,2024-09-11,UBS-011,56.0,2.1,Não,Não
+PAC0018,57,Feminino,Fortaleza,Urbana,Fundamental,4.2,Tétano,2ª Dose,2024-09-16,UBS-006,8.0,2.1,Não,Sim
+PAC0019,45,Masculino,Fortaleza,Urbana,Médio,1.7,Febre Amarela,2ª Dose,2024-10-31,UBS-012,75.0,4.2,Não,Sim
+PAC0020,45,Masculino,Juazeiro do Norte,Rural,Médio,,COVID-19,1ª Dose,2024-10-17,UBS-027,63.0,3.3,,Não
+PAC0021,61,Feminino,Quixadá,Rural,Sem escolaridade,2.7,Influenza,1ª Dose,2024-08-06,UBS-009,48.0,5.7,Não,Sim
+PAC0022,35,Masculino,Itapipoca,Urbana,Médio,2.6,COVID-19,Dose Única,2024-10-01,UBS-025,9.0,2.8,Não,Sim
+PAC0023,46,Masculino,Itapipoca,Rural,Médio,3.1,COVID-19,1ª Dose,2024-06-21,UBS-010,25.0,1.8,Sim,Não
+PAC0024,36,Masculino,Fortaleza,Urbana,Médio,2.5,Hep. B,3ª Dose,2023-07-28,UBS-003,,,Não,Sim
+PAC0025,37,Masculino,Itapipoca,Urbana,Fundamental,1.9,Tétano,Reforço,2023-05-29,UBS-003,,4.6,Não,Sim
+PAC0026,39,Feminino,Itapipoca,Rural,Médio,,Tétano,1ª Dose,2024-05-14,UBS-020,8.0,1.3,Não,Sim
+PAC0027,48,Masculino,Sobral,Rural,Sem escolaridade,3.7,Hepatite B,Dose Única,2024-01-18,UBS-028,34.0,4.6,Não,Não
+PAC0028,36,Feminino,Quixadá,Rural,Sem escolaridade,9.6,COVID-19,1ª Dose,2024-08-20,UBS-023,13.0,2.4,Não,Sim
+PAC0029,67,Feminino,Caucaia,Urbana,Médio,,COVID-19,3ª Dose,2023-03-29,UBS-016,8.0,3.0,Não,Não
+PAC0030,28,Masculino,Quixadá,Urbana,Fundamental,2.5,COVID-19,1ª Dose,2024-11-20,UBS-003,15.0,2.1,Não,Não
+PAC0031,41,Feminino,Iguatu,Urbana,Fundamental,1.9,Febre Amarela,Dose Única,2024-07-05,UBS-010,36.0,13.9,Não,Não
+PAC0032,37,Masculino,Fortaleza,Urbana,Fundamental,2.6,Febre Amarela,2ª Dose,2024-04-29,UBS-024,17.0,6.2,Não,Sim
+PAC0033,71,Masculino,Juazeiro do Norte,Rural,Médio,,Influenza,2ª Dose,2024-04-29,UBS-011,20.0,2.0,Não,Não
+PAC0034,48,Feminino,Quixadá,Rural,Sem escolaridade,2.0,INFLUENZA,3ª Dose,2023-05-17,UBS-008,111.0,5.7,Não,Sim
+PAC0035,63,Feminino,Fortaleza,Urbana,Fundamental,0.8,COVID-19,1ª Dose,2024-10-24,UBS-006,15.0,9.9,Não,Não
+PAC0036,18,Feminino,Maracanaú,Periurbana,Médio,3.7,COVID-19,Dose Única,2023-01-09,UBS-020,24.0,3.1,Não,Sim
+PAC0037,153,Masculino,Quixadá,Rural,Médio,2.4,Influenza,2ª Dose,2024-03-15,UBS-011,14.0,9.4,Não,Não
+PAC0038,61,Masculino,Maracanaú,Urbana,,1.9,COVID-19,Dose Única,2023-05-26,UBS-028,14.0,1.3,Não,Sim
+PAC0039,46,Feminino,Fortaleza,Urbana,Médio,1.7,Influenza,1ª Dose,2024-03-03,UBS-027,28.0,9.2,Não,Sim
+PAC0040,64,Masculino,Sobral,Rural,Médio,2.6,Febre Amarela,Dose Única,2024-07-14,UBS-021,60.0,4.4,Não,Sim
+PAC0041,35,Masculino,Fortaleza,Urbana,Médio,1.6,Influenza,1ª Dose,2023-11-29,UBS-012,20.0,1.8,Não,Sim
+PAC0042,70,Feminino,Maracanaú,Urbana,Fundamental,1.7,COVID-19,2ª Dose,2023-11-23,UBS-016,34.0,3.1,Não,Sim
+PAC0043,86,Masculino,Fortaleza,Urbana,Superior,1.2,COVID-19,1ª Dose,2024-07-29,UBS-018,6.0,22.6,Não,Sim
+PAC0044,38,Feminino,Sobral,Urbana,Médio,1.6,Influenza,Dose Única,2024-09-05,UBS-013,9.0,8.2,Sim,Sim
+PAC0045,36,Masculino,Maracanaú,Urbana,Fundamental,3.1,Influenza,1ª Dose,2024-09-05,UBS-022,18.0,4.8,Não,Sim
+PAC0046,71,Feminino,Itapipoca,Rural,Médio,1.1,Influenza,Reforço,2023-02-21,UBS-003,5.0,1.1,Não,Sim
+PAC0047,73,Masculino,Sobral,Urbana,Sem escolaridade,4.0,Influenza,Reforço,2024-03-06,UBS-015,10.0,3.2,Não,Sim
+PAC0048,35,Feminino,Maracanaú,Urbana,,1.2,Influenza,1ª Dose,2024-08-03,UBS-022,19.0,2.0,Não,Não
+PAC0049,37,Feminino,Crato,Rural,Superior,2.4,Febre Amarela,3ª Dose,2023-04-05,UBS-028,5.0,0.9,Sim,Não
+PAC0050,39,Masculino,Fortaleza,Urbana,Médio,2.8,COVID-19,1ª Dose,2024-10-10,UBS-021,11.0,4.4,Não,Sim
+PAC0051,20,Feminino,Sobral,Urbana,Fundamental,3.4,Febre Amarela,2ª Dose,2023-01-31,UBS-014,19.0,11.5,Sim,Sim
+PAC0052,28,Feminino,Fortaleza,Urbana,Fundamental,3.4,COVID-19,Dose Única,2024-01-15,UBS-018,22.0,6.1,Não,Sim
+PAC0053,26,Feminino,Iguatu,Rural,Fundamental,,COVID-19,Dose Única,2023-01-09,UBS-028,57.0,1.9,Não,Não
+PAC0054,31,Feminino,Fortaleza,Urbana,Fundamental,2.0,Influenza,3ª Dose,2024-06-13,UBS-029,25.0,4.8,Não,Não
+PAC0055,44,Feminino,Juazeiro do Norte,Urbana,Médio,3.0,Influenza,1ª Dose,2024-03-30,UBS-014,15.0,,Não,Sim
+PAC0056,49,Feminino,Crato,Rural,Superior,,Tétano,2ª Dose,2024-12-22,UBS-005,58.0,6.9,Não,Sim
+PAC0057,72,Masculino,Juazeiro do Norte,Rural,Médio,1.9,Hepatite B,1ª Dose,2024-08-09,UBS-021,35.0,6.3,Não,Não
+PAC0058,27,Masculino,Fortaleza,Urbana,Médio,2.7,Tétano,Dose Única,2024-01-26,UBS-014,9.0,17.7,Não,Sim
+PAC0059,62,Masculino,Maracanaú,Urbana,Médio,2.0,Tétano,2ª Dose,2023-08-08,UBS-025,7.0,8.5,Sim,Sim
+PAC0060,41,Masculino,Sobral,Urbana,Superior,1.6,Hepatite B,Dose Única,2024-07-13,UBS-027,27.0,1.2,Não,Sim
+PAC0061,44,Masculino,Crato,Rural,Sem escolaridade,1.8,Influenza,1ª Dose,2024-01-20,UBS-008,21.0,2.6,Não,Sim
+PAC0062,57,Masculino,Juazeiro do Norte,Urbana,Médio,2.8,Influenza,2ª Dose,2024-04-13,UBS-028,36.0,17.3,Não,Sim
+PAC0063,24,Feminino,Maracanaú,Periurbana,Médio,1.4,Tétano,2ª Dose,2024-02-22,UBS-028,31.0,3.9,Não,Não
+PAC0064,51,Masculino,Juazeiro do Norte,Rural,Superior,3.9,Febre Amarela,1ª Dose,2023-03-25,UBS-023,24.0,1.1,,Não
+PAC0065,47,Masculino,Crato,Urbana,Superior,1.7,COVID-19,2ª Dose,2023-12-02,UBS-015,90.0,3.6,Não,Sim
+PAC0066,53,Feminino,Sobral,Rural,Médio,0.7,Febre Amarela,Dose Única,2024-08-30,UBS-028,20.0,6.5,Não,Não
+PAC0067,50,Masculino,Maracanaú,Periurbana,Fundamental,2.9,COVID-19,Reforço,2024-01-04,UBS-029,7.0,30.6,,Não
+PAC0068,89,Feminino,Fortaleza,Urbana,,0.6,Influenza,2ª Dose,2023-08-13,UBS-015,40.0,2.5,Não,Sim
+PAC0069,33,Masculino,Fortaleza,Urbana,Sem escolaridade,1.3,COVID-19,2ª Dose,2024-11-11,UBS-030,10.0,4.1,Não,Não
+PAC0070,35,Feminino,Fortaleza,Urbana,Médio,7.5,Hepatite B,1ª Dose,2024-12-03,UBS-019,35.0,11.1,Não,Não
+PAC0071,33,Feminino,Fortaleza,Urbana,Médio,3.8,Febre Amarela,Reforço,2023-08-25,UBS-026,67.0,2.7,Não,Sim
+PAC0072,35,Masculino,Juazeiro do Norte,Rural,Médio,3.6,COVID-19,1ª Dose,2024-02-27,UBS-020,28.0,1.1,Não,Não
+PAC0073,33,Masculino,Sobral,Rural,Superior,1.3,COVID-19,Reforço,2024-07-09,UBS-006,23.0,15.4,Não,Não
+PAC0074,66,Feminino,Fortaleza,Urbana,Médio,2.0,COVID-19,2ª Dose,2023-05-08,UBS-019,17.0,3.9,Não,Não
+PAC0075,70,Feminino,Quixadá,Urbana,Fundamental,4.1,Hepatite-B,2ª Dose,2024-09-13,UBS-027,14.0,4.0,Sim,Não
+PAC0076,34,Feminino,Fortaleza,Urbana,Fundamental,3.1,COVID-19,Reforço,2024-01-10,UBS-025,13.0,5.4,Não,Sim
+PAC0077,30,Feminino,Itapipoca,Urbana,Superior,3.9,COVID-19,1ª Dose,2023-05-05,UBS-008,25.0,0.5,,Não
+PAC0078,53,Masculino,Sobral,Rural,Fundamental,5.4,COVID-19,3ª Dose,2024-12-28,UBS-006,32.0,13.9,Não,Não
+PAC0079,35,Masculino,Juazeiro do Norte,Rural,Fundamental,3.1,Influenza,2ª Dose,2024-12-01,UBS-020,27.0,2.7,Não,Sim
+PAC0080,56,Masculino,Fortaleza,Urbana,Fundamental,1.2,COVID-19,1ª Dose,2024-01-02,UBS-023,9.0,,Não,Sim
+PAC0081,48,Feminino,Sobral,Rural,Médio,3.0,Hepatite B,2ª Dose,2024-12-14,UBS-029,18.0,1.5,Não,Não
+PAC0082,18,Feminino,Juazeiro do Norte,Urbana,Fundamental,2.0,COVID-19,Dose Única,2023-09-01,UBS-015,36.0,2.9,Não,Sim
+PAC0083,72,Masculino,Quixadá,Rural,Superior,,Hepatite B,Dose Única,2023-07-26,UBS-027,17.0,8.6,Sim,Não
+PAC0084,77,Masculino,Maracanaú,Urbana,Superior,3.5,COVID-19,1ª Dose,2023-12-13,UBS-003,20.0,8.5,Não,Não
+PAC0085,33,Masculino,Quixadá,Rural,Superior,4.1,Influenza,Reforço,2023-02-08,UBS-010,34.0,14.2,Não,Sim
+PAC0086,38,Masculino,Fortaleza,Urbana,Sem escolaridade,2.1,COVID-19,1ª Dose,2023-11-30,UBS-015,26.0,3.1,Não,Sim
+PAC0087,50,Feminino,Itapipoca,Rural,Superior,2.6,Hepatite B,1ª Dose,2024-02-27,UBS-024,15.0,6.7,Não,Sim
+PAC0088,51,Feminino,Sobral,Urbana,Superior,0.8,Tétano,1ª Dose,2023-11-03,UBS-016,528.0,4.0,Não,Sim
+PAC0089,56,Feminino,Itapipoca,Rural,Superior,3.9,Tétano,1ª Dose,2024-03-23,UBS-017,8.0,8.6,Não,Não
+PAC0090,81,Masculino,Fortaleza,Urbana,Médio,3.3,Influenza,1ª Dose,2024-04-06,UBS-019,113.0,6.7,Não,Sim
+PAC0091,41,Masculino,Crato,Rural,Médio,2.5,Influenza,Reforço,2024-05-27,UBS-011,7.0,2.8,Não,Sim
+PAC0092,30,Feminino,Maracanaú,Periurbana,Fundamental,1.2,Febre Amarela,2ª Dose,2023-10-26,UBS-016,5.0,2.6,Não,Sim
+PAC0093,20,Feminino,Itapipoca,Rural,Superior,1.0,Hepatite B,1ª Dose,2024-12-17,UBS-005,49.0,2.0,,Não
+PAC0094,31,Feminino,Caucaia,Urbana,Sem escolaridade,6.1,COVID-19,1ª Dose,2023-08-10,UBS-005,10.0,4.8,Não,Sim
+PAC0095,44,Feminino,Iguatu,Urbana,Fundamental,,Febre Amarela,Dose Única,2024-11-13,UBS-026,31.0,17.1,Não,Não
+PAC0096,77,Feminino,Fortaleza,Urbana,Superior,2.4,Influenza,Reforço,2024-02-12,UBS-014,38.0,1.6,Não,Sim
+PAC0097,35,Feminino,Maranguape,Urbana,Médio,1.4,COVID-19,1ª Dose,2023-06-11,UBS-018,44.0,1.0,Não,Não
+PAC0098,49,Masculino,Iguatu,Rural,Fundamental,0.7,COVID-19,1ª Dose,2024-01-24,UBS-026,100.0,1.1,Não,Sim
+PAC0099,44,Masculino,Maranguape,Urbana,Superior,2.8,COVID-19,1ª Dose,2023-04-25,UBS-008,,8.1,Não,Sim
+PAC0100,66,Masculino,Maracanaú,Periurbana,Superior,3.0,Influenza,1ª Dose,2023-09-11,UBS-005,29.0,2.7,Não,Não
+PAC0101,90,Masculino,Juazeiro do Norte,Rural,Fundamental,1.0,COVID-19,1ª Dose,2023-04-26,UBS-007,7.0,1.8,Não,Sim
+PAC0102,35,Feminino,Quixadá,Rural,Superior,3.9,COVID-19,2ª Dose,2024-10-10,UBS-016,15.0,2.7,Não,Sim
+PAC0103,36,Masculino,Fortaleza,Urbana,Médio,1.7,COVID-19,1ª Dose,2024-10-07,UBS-023,42.0,5.7,Não,Não
+PAC0104,63,Feminino,Maracanaú,Urbana,Médio,1.3,Influenza,2ª Dose,2024-11-04,UBS-014,14.0,4.5,Não,Não
+PAC0105,57,Feminino,Crato,Urbana,Fundamental,1.3,Hepatite B,1ª Dose,2023-06-20,UBS-005,22.0,7.3,Sim,Sim
+PAC0106,78,Masculino,Crato,Rural,Sem escolaridade,3.4,COVID-19,Reforço,2024-04-28,UBS-024,19.0,2.6,,Sim
+PAC0107,55,Masculino,Fortaleza,Urbana,Fundamental,0.9,COVID-19,Reforço,2023-10-23,UBS-009,25.0,3.5,Não,Não
+PAC0108,38,Feminino,Crato,Rural,Sem escolaridade,1.2,COVID-19,3ª Dose,2023-07-07,UBS-004,77.0,1.0,Não,Não
+PAC0109,55,Masculino,Maranguape,Urbana,Superior,2.8,Tétano,2ª Dose,2024-05-08,UBS-004,6.0,0.9,Não,Sim
+PAC0110,64,Masculino,Fortaleza,Periurbana,Médio,2.6,Influenza,2ª Dose,2024-03-05,UBS-016,22.0,3.6,Não,Sim
+PAC0111,59,Masculino,Iguatu,Rural,Superior,1.3,Influenza,2ª Dose,2024-03-11,UBS-024,44.0,2.3,Não,Sim
+PAC0112,54,Masculino,Fortaleza,Urbana,Médio,4.2,COVID-19,Dose Única,2024-02-12,UBS-017,18.0,5.2,Não,Não
+PAC0113,64,Feminino,Caucaia,Periurbana,Fundamental,1.3,Hepatite B,2ª Dose,2024-10-22,UBS-015,6.0,0.7,Não,Sim
+PAC0114,66,Feminino,Fortaleza,Periurbana,Superior,2.0,Influenza,Reforço,2024-10-28,UBS-004,21.0,1.1,Não,Não
+PAC0115,69,Feminino,Fortaleza,Urbana,Superior,1.9,COVID-19,Reforço,2023-02-03,UBS-006,13.0,10.5,Sim,Sim
+PAC0116,56,Feminino,Iguatu,Rural,Fundamental,1.9,COVID-19,2ª Dose,2023-06-04,UBS-016,8.0,4.7,Não,Não
+PAC0117,41,Feminino,Caucaia,Periurbana,Fundamental,2.0,Influenza,3ª Dose,2023-12-16,UBS-029,42.0,6.7,Não,Não
+PAC0118,47,Masculino,Juazeiro do Norte,Rural,Médio,2.0,Febre Amarela,1ª Dose,2023-12-22,UBS-004,19.0,9.7,Não,Sim
+PAC0119,66,Feminino,Fortaleza,Urbana,Médio,2.0,Febre Amarela,1ª Dose,2024-02-21,UBS-006,59.0,3.6,Sim,Sim
+PAC0120,30,Feminino,Sobral,Rural,Superior,2.0,Hepatite B,2ª Dose,2024-02-17,UBS-005,37.0,7.7,Não,Sim
+PAC0121,51,Feminino,Sobral,Rural,Sem escolaridade,3.8,Hepatite B,1ª Dose,2023-09-07,UBS-016,28.0,4.2,Não,Não
+PAC0122,37,Feminino,Juazeiro do Norte,Rural,Fundamental,2.0,COVID-19,Reforço,2024-01-18,UBS-030,5.0,1.8,Não,Sim
+PAC0123,45,Masculino,Caucaia,Urbana,Médio,3.1,Influenza,1ª Dose,2024-05-28,UBS-025,16.0,2.6,Não,Não
+PAC0124,68,Masculino,Iguatu,Rural,Médio,2.4,Hepatite B,2ª Dose,2024-01-02,UBS-016,9.0,3.9,Não,Não
+PAC0125,48,Masculino,Juazeiro do Norte,Rural,Sem escolaridade,,COVID-19,3ª Dose,2023-01-04,UBS-010,53.0,2.4,Não,Não
+PAC0126,45,Masculino,Maracanaú,Periurbana,Médio,3.3,Febre Amarela,Dose Única,2024-08-22,UBS-009,8.0,2.5,Não,Não
+PAC0127,20,Feminino,Caucaia,Urbana,Médio,1.3,COVID-19,2ª Dose,2023-04-15,UBS-004,11.0,2.6,Não,Sim
+PAC0128,58,Feminino,Itapipoca,Urbana,Médio,3.0,COVID-19,Reforço,2024-09-18,UBS-029,19.0,1.2,Não,Não
+PAC0129,56,Masculino,Juazeiro do Norte,Rural,Fundamental,2.0,Hepatite B,3ª Dose,2023-07-09,UBS-014,11.0,0.9,Não,Sim
+PAC0130,83,Feminino,Maracanaú,Urbana,Médio,1.4,Hepatite B,2ª Dose,2024-03-02,UBS-004,,0.7,Não,Sim
+PAC0131,139,Masculino,Caucaia,Urbana,Superior,3.3,Hepatite B,1ª Dose,2024-05-15,UBS-012,23.0,1.1,Não,Sim
+PAC0132,48,Masculino,Quixadá,Rural,Superior,1.8,COVID-19,2ª Dose,2023-06-18,UBS-024,6.0,2.6,Não,Não
+PAC0133,49,Masculino,Caucaia,Periurbana,Fundamental,2.7,Febre Amarela,Dose Única,2023-07-16,UBS-010,6.0,5.0,Não,Não
+PAC0134,73,Masculino,Itapipoca,Urbana,Fundamental,0.6,Influenza,3ª Dose,2024-11-17,UBS-004,14.0,1.5,Não,Sim
+PAC0135,43,Feminino,Juazeiro do Norte,Rural,Superior,3.2,Influenza,Dose Única,2023-11-22,UBS-018,30.0,11.4,Não,Não
+PAC0136,50,Masculino,Fortaleza,Periurbana,Médio,8.1,Tétano,2ª Dose,2024-09-29,UBS-013,21.0,8.8,Não,Não
+PAC0137,55,Feminino,Maranguape,Urbana,Médio,2.2,Hepatite B,1ª Dose,2023-06-11,UBS-013,,4.2,Não,Sim
+PAC0138,48,Feminino,Caucaia,Urbana,Médio,2.0,COVID-19,1ª Dose,2023-02-07,UBS-014,21.0,6.9,Não,Não
+PAC0139,36,Masculino,Iguatu,Rural,Fundamental,1.8,Febre Amarela,2ª Dose,2023-03-26,UBS-018,14.0,2.8,Não,Sim
+PAC0140,48,Feminino,Iguatu,Rural,Médio,2.9,COVID 19,Dose Única,2024-01-28,UBS-001,60.0,0.7,Não,Sim
+PAC0141,64,Feminino,Maranguape,Rural,Médio,1.9,COVID-19,Dose Única,2024-02-17,UBS-021,6.0,12.2,Não,Não
+PAC0142,26,Masculino,Fortaleza,Urbana,Médio,3.1,Influenza,1ª Dose,2024-10-02,UBS-016,27.0,1.2,Não,Sim
+PAC0143,47,Feminino,Itapipoca,Rural,Fundamental,5.3,Tétano,2ª Dose,2024-01-30,UBS-015,49.0,15.3,Sim,Sim
+PAC0144,32,Masculino,Juazeiro do Norte,Rural,Superior,3.4,COVID-19,2ª Dose,2023-01-14,UBS-022,37.0,4.7,Não,Não
+PAC0145,66,Masculino,Iguatu,Urbana,Médio,2.0,Hepatite B,2ª Dose,2024-08-17,UBS-025,9.0,2.3,Sim,Não
+PAC0146,18,Masculino,Sobral,Rural,,1.3,COVID-19,1ª Dose,2023-10-13,UBS-005,12.0,3.9,Não,Sim
+PAC0147,34,Feminino,Maranguape,Urbana,Superior,1.8,Hepatite B,1ª Dose,2024-07-31,UBS-029,30.0,4.0,Sim,Sim
+PAC0148,51,Feminino,Maracanaú,Urbana,Médio,2.1,Influenza,1ª Dose,2024-04-03,UBS-006,,0.6,Não,Sim
+PAC0149,73,Masculino,Maracanaú,Urbana,Médio,1.2,Hepatite B,1ª Dose,2024-03-26,UBS-006,38.0,2.7,Não,Não
+PAC0150,43,Masculino,Fortaleza,Urbana,Superior,3.8,COVID-19,1ª Dose,2023-11-02,UBS-003,30.0,7.2,Não,Sim
+PAC0151,35,Feminino,Itapipoca,Rural,Fundamental,3.0,Hepatite B,1ª Dose,2024-12-24,UBS-016,31.0,4.1,Sim,Sim
+PAC0152,78,Masculino,Juazeiro do Norte,Rural,Médio,1.3,Tétano,3ª Dose,2023-08-14,UBS-012,7.0,1.9,Não,Sim
+PAC0153,18,Masculino,Maracanaú,Periurbana,Superior,0.9,Hepatite B,2ª Dose,2024-06-23,UBS-004,30.0,2.5,Não,Sim
+PAC0154,18,Feminino,Itapipoca,Urbana,Fundamental,3.2,Influenza,Reforço,2024-09-22,UBS-001,27.0,10.4,Não,Sim
+PAC0155,52,Feminino,Sobral,Urbana,Sem escolaridade,1.0,Tétano,1ª Dose,2023-05-16,UBS-004,40.0,4.2,Não,Sim
+PAC0156,35,Masculino,Fortaleza,Periurbana,Superior,2.3,COVID-19,2ª Dose,2023-07-09,UBS-001,5.0,4.3,Não,Sim
+PAC0157,26,Feminino,Sobral,Rural,Superior,1.8,Hepatite B,2ª Dose,2024-01-21,UBS-021,5.0,16.8,Não,Sim
+PAC0158,57,Feminino,Juazeiro do Norte,Rural,,3.3,Febre Amarela,1ª Dose,2023-07-18,UBS-027,14.0,2.4,,Sim
+PAC0159,49,Masculino,Juazeiro do Norte,Rural,,3.3,COVID-19,Dose Única,2023-04-27,UBS-027,412.0,3.8,Sim,Sim
+PAC0160,34,Feminino,Fortaleza,Urbana,Fundamental,1.5,Influenza,1ª Dose,2024-09-27,UBS-008,21.0,8.8,Não,Sim
+PAC0161,21,Masculino,Fortaleza,Urbana,Fundamental,3.5,COVID-19,Reforço,2024-07-10,UBS-024,54.0,7.6,Não,Sim
+PAC0162,60,Feminino,Caucaia,Urbana,Médio,1.9,INFLUENZA,Reforço,2023-06-12,UBS-005,14.0,2.0,Não,Sim
+PAC0163,56,Feminino,Crato,Rural,Médio,2.2,Hepatite B,2ª Dose,2023-07-06,UBS-030,42.0,1.3,Não,Sim
+PAC0164,43,Feminino,Fortaleza,Urbana,Fundamental,,COVID-19,2ª Dose,2023-05-11,UBS-026,5.0,6.5,Não,Sim
+PAC0165,78,Masculino,Juazeiro do Norte,Urbana,Sem escolaridade,6.8,Influenza,Dose Única,2023-01-14,UBS-002,8.0,2.0,Não,Sim
+PAC0166,25,Feminino,Iguatu,Urbana,Médio,2.1,COVID-19,2ª Dose,2024-03-31,UBS-012,5.0,13.3,,Sim
+PAC0167,18,Masculino,Fortaleza,Urbana,Médio,1.0,Influenza,3ª Dose,2024-04-06,UBS-022,12.0,1.2,Não,Sim
+PAC0168,32,Masculino,Maracanaú,Urbana,Fundamental,1.6,COVID-19,1ª Dose,2024-05-30,UBS-017,52.0,2.4,Não,Não
+PAC0169,44,Masculino,Itapipoca,Rural,Superior,3.2,Febre Amarela,1ª Dose,2023-12-08,UBS-007,7.0,0.8,Não,Sim
+PAC0170,49,Feminino,Quixadá,Rural,Fundamental,1.9,COVID-19,2ª Dose,2024-03-30,UBS-011,23.0,6.6,Não,Não
+PAC0171,40,Feminino,Itapipoca,Rural,Médio,2.2,Febre Amarela,2ª Dose,2023-06-02,UBS-004,17.0,11.6,Não,Sim
+PAC0172,51,Masculino,Itapipoca,Rural,Superior,1.8,Influenza,Reforço,2024-01-10,UBS-005,60.0,5.6,Não,Sim
+PAC0173,22,Feminino,Maranguape,Rural,Médio,0.5,COVID-19,1ª Dose,2023-02-11,UBS-006,7.0,14.4,Não,Não
+PAC0174,70,Masculino,Juazeiro do Norte,Urbana,,1.5,Hepatite B,Dose Única,2023-03-09,UBS-011,9.0,1.2,Não,Sim
+PAC0175,43,Feminino,Maranguape,Urbana,Fundamental,2.1,Influenza,1ª Dose,2023-06-10,UBS-001,5.0,1.0,Não,Sim
+PAC0176,65,Masculino,Fortaleza,Periurbana,Superior,,Influenza,2ª Dose,2024-06-11,UBS-025,16.0,9.6,Não,Não
+PAC0177,51,Feminino,Iguatu,Urbana,Fundamental,1.2,COVID-19,2ª Dose,2024-11-17,UBS-010,,10.2,Não,Sim
+PAC0178,53,Masculino,Juazeiro do Norte,Rural,Médio,1.9,Influenza,2ª Dose,2023-06-18,UBS-020,45.0,9.4,Sim,Sim
+PAC0179,55,Feminino,Maracanaú,Urbana,Superior,1.9,COVID-19,1ª Dose,2024-07-18,UBS-024,23.0,8.5,Não,Sim
+PAC0180,-9,Masculino,Caucaia,Urbana,Superior,2.7,COVID-19,2ª Dose,2023-09-23,UBS-021,24.0,2.7,Não,Não
+PAC0181,56,Masculino,Itapipoca,Urbana,Médio,1.9,Influenza,Dose Única,2024-03-24,UBS-011,20.0,1.7,Não,Não
+PAC0182,68,Masculino,Fortaleza,Urbana,Superior,2.7,COVID-19,2ª Dose,2024-02-14,UBS-024,6.0,13.7,Não,Sim
+PAC0183,48,Feminino,Iguatu,Rural,,1.6,COVID-19,2ª Dose,2023-09-30,UBS-017,16.0,2.3,Não,Sim
+PAC0184,57,Feminino,Maranguape,Urbana,Fundamental,,COVID-19,Dose Única,2024-03-29,UBS-008,157.0,3.0,Não,Não
+PAC0185,43,Masculino,Fortaleza,Periurbana,Fundamental,4.6,Covid-19,Dose Única,2023-11-29,UBS-027,41.0,6.5,Não,Sim
+PAC0186,70,Feminino,Maranguape,Urbana,Fundamental,2.6,COVID-19,2ª Dose,2023-03-05,UBS-013,49.0,2.2,Não,Sim
+PAC0187,32,Feminino,Itapipoca,Urbana,,2.0,Tétano,1ª Dose,2023-01-14,UBS-027,39.0,9.0,Não,Não
+PAC0188,77,Feminino,Sobral,Urbana,Superior,1.4,COVID-19,Reforço,2023-01-10,UBS-020,7.0,0.9,Não,Sim
+PAC0189,44,Feminino,Juazeiro do Norte,Rural,Médio,2.3,Hepatite B,3ª Dose,2023-04-07,UBS-018,10.0,8.3,Não,Sim
+PAC0190,19,Masculino,Caucaia,Urbana,Superior,2.0,COVID-19,1ª Dose,2024-11-14,UBS-027,5.0,5.1,Não,Não
+PAC0191,47,Masculino,Fortaleza,Urbana,Médio,2.9,Tétano,1ª Dose,2024-08-12,UBS-022,12.0,4.8,Sim,Não
+PAC0192,32,Feminino,Caucaia,Urbana,Médio,0.9,COVID-19,Dose Única,2023-01-25,UBS-016,,3.6,Sim,Sim
+PAC0193,60,Feminino,Iguatu,Rural,Médio,2.0,Tétano,1ª Dose,2024-10-13,UBS-002,17.0,2.1,Não,Sim
+PAC0194,33,Feminino,Fortaleza,Urbana,Sem escolaridade,2.7,Hepatite B,Reforço,2023-06-01,UBS-005,27.0,3.6,Não,Sim
+PAC0195,36,Masculino,Maranguape,Urbana,Superior,2.4,COVID-19,1ª Dose,2024-08-16,UBS-018,46.0,3.5,Sim,Sim
+PAC0196,18,Masculino,Caucaia,Urbana,Médio,1.9,Febre Amarela,Dose Única,2023-05-25,UBS-003,32.0,4.9,Não,Sim
+PAC0197,36,Feminino,Maracanaú,Urbana,,1.9,Influenza,2ª Dose,2024-03-07,UBS-027,60.0,2.2,Não,Sim
+PAC0198,18,Feminino,Maranguape,Rural,Sem escolaridade,1.3,COVID-19,2ª Dose,2024-03-01,UBS-022,6.0,0.9,Não,Sim
+PAC0199,18,Feminino,Iguatu,Rural,Superior,2.7,Febre Amarela,Reforço,2023-04-23,UBS-017,5.0,1.3,Não,Sim
+PAC0200,58,Feminino,Caucaia,Urbana,Superior,2.8,Tétano,2ª Dose,2024-03-06,UBS-016,26.0,6.5,Sim,Sim
+PAC0201,59,Feminino,Juazeiro do Norte,Urbana,Médio,1.1,Influenza,2ª Dose,2023-02-26,UBS-006,11.0,0.6,Não,Sim
+PAC0202,52,Masculino,Juazeiro do Norte,Urbana,Médio,3.3,COVID-19,1ª Dose,2023-05-05,UBS-019,10.0,10.2,Não,Sim
+PAC0203,27,Masculino,Fortaleza,Urbana,Médio,1.6,Febre Amarela,1ª Dose,2023-07-30,UBS-007,13.0,6.4,Não,Sim
+PAC0204,44,Feminino,Caucaia,Periurbana,Fundamental,1.8,Hepatite B,1ª Dose,2024-02-02,UBS-018,11.0,7.8,Não,Não
+PAC0205,44,Feminino,Juazeiro do Norte,Rural,Fundamental,5.6,Febre Amarela,Dose Única,2024-08-15,UBS-014,19.0,9.5,Não,Não
+PAC0206,24,Masculino,Juazeiro do Norte,Urbana,,,Hepatite B,1ª Dose,2024-07-29,UBS-006,16.0,1.2,Não,Sim
+PAC0207,72,Masculino,Itapipoca,Rural,Fundamental,1.1,COVID-19,1ª Dose,2024-10-03,UBS-008,19.0,9.1,Não,Sim
+PAC0208,60,Feminino,Juazeiro do Norte,Urbana,Médio,1.2,Tétano,2ª Dose,2023-11-03,UBS-015,27.0,4.0,Não,Sim
+PAC0209,41,Masculino,Maracanaú,Urbana,Médio,1.3,COVID-19,3ª Dose,2023-01-05,UBS-015,14.0,11.3,Não,Sim
+PAC0210,45,Masculino,Juazeiro do Norte,Rural,Médio,4.9,COVID-19,Dose Única,2023-04-27,UBS-015,10.0,11.4,Sim,Sim
+PAC0211,48,Feminino,Itapipoca,Rural,,1.6,Influenza,1ª Dose,2023-06-24,UBS-016,8.0,0.6,Não,Não
+PAC0212,18,Feminino,Iguatu,Rural,Fundamental,1.1,Gripe,1ª Dose,2024-12-03,UBS-001,13.0,2.9,,Sim
+PAC0213,40,Feminino,Maracanaú,Urbana,Fundamental,4.1,COVID-19,Reforço,2023-11-05,UBS-011,32.0,4.2,Sim,Sim
+PAC0214,32,Masculino,Itapipoca,Rural,Médio,3.0,Febre Amarela,1ª Dose,2024-12-22,UBS-027,33.0,6.2,Não,Sim
+PAC0215,26,Feminino,Caucaia,Urbana,Médio,6.9,Influenza,Reforço,2024-01-26,UBS-029,26.0,,Não,Sim
+PAC0216,39,Masculino,Maracanaú,Urbana,Superior,3.0,Influenza,Reforço,2024-06-13,UBS-025,10.0,2.0,Não,Sim
+PAC0217,77,Masculino,Caucaia,Periurbana,Fundamental,2.2,Febre Amarela,Dose Única,2023-02-20,UBS-005,,2.9,,Sim
+PAC0218,56,Feminino,Juazeiro do Norte,Rural,Superior,2.5,Influenza,1ª Dose,2024-10-04,UBS-005,21.0,4.0,Sim,Sim
+PAC0219,34,Feminino,Itapipoca,Urbana,Fundamental,1.8,COVID-19,Dose Única,2023-06-07,UBS-029,18.0,15.6,Sim,Sim
+PAC0220,55,Feminino,Iguatu,Urbana,Médio,4.3,COVID-19,Dose Única,2023-03-17,UBS-028,20.0,7.7,Não,Não
+PAC0221,70,Feminino,Fortaleza,Urbana,Médio,4.4,Tétano,3ª Dose,2024-06-14,UBS-021,18.0,3.3,Não,Sim
+PAC0222,61,Feminino,Sobral,Urbana,Médio,1.0,COVID-19,2ª Dose,2023-02-08,UBS-006,21.0,0.8,Não,Sim
+PAC0223,46,Masculino,Sobral,Rural,Médio,3.6,Influenza,1ª Dose,2024-08-11,UBS-002,30.0,1.4,Não,Sim
+PAC0224,33,Masculino,Fortaleza,Urbana,Médio,1.3,Influenza,1ª Dose,2023-08-29,UBS-006,7.0,3.5,Não,Sim
+PAC0225,57,Masculino,Fortaleza,Urbana,Fundamental,7.4,Influenza,2ª Dose,2024-09-10,UBS-014,32.0,8.9,Não,Sim
+PAC0226,52,Masculino,Caucaia,Urbana,Superior,4.8,COVID-19,3ª Dose,2023-05-28,UBS-011,550.0,2.9,Não,Sim
+PAC0227,61,Feminino,Fortaleza,Periurbana,Fundamental,1.3,Influenza,2ª Dose,2023-07-29,UBS-004,6.0,4.4,Não,Sim
+PAC0228,56,Masculino,Fortaleza,Urbana,Fundamental,2.5,Influenza,2ª Dose,2023-02-02,UBS-024,79.0,11.6,,Sim
+PAC0229,63,Feminino,Caucaia,Urbana,Sem escolaridade,3.7,Tétano,2ª Dose,2024-08-28,UBS-029,67.0,12.8,Não,Sim
+PAC0230,35,Feminino,Caucaia,Periurbana,Fundamental,1.6,COVID-19,3ª Dose,2023-05-24,UBS-027,6.0,1.7,Não,Sim
+PAC0231,68,Feminino,Itapipoca,Rural,Médio,1.1,Influenza,Reforço,2023-06-07,UBS-025,16.0,0.7,Não,Sim
+PAC0232,48,Feminino,Sobral,Urbana,Médio,2.3,Influenza,1ª Dose,2023-12-17,UBS-009,561.0,2.3,Sim,Sim
+PAC0233,82,Feminino,Quixadá,Rural,Fundamental,2.1,Influenza,2ª Dose,2023-08-14,UBS-024,18.0,6.5,Não,Sim
+PAC0234,32,Feminino,Juazeiro do Norte,Urbana,Sem escolaridade,1.4,Hepatite B,1ª Dose,2024-10-16,UBS-003,40.0,,Não,Sim
+PAC0235,76,Masculino,Itapipoca,Rural,Médio,4.1,COVID-19,3ª Dose,2023-11-14,UBS-026,65.0,0.9,Não,Sim
+PAC0236,48,Feminino,Iguatu,Rural,Médio,1.2,COVID-19,Dose Única,2023-08-30,UBS-016,25.0,0.6,,Sim
+PAC0237,33,Masculino,Crato,Urbana,Superior,2.1,Hepatite B,Reforço,2024-05-22,UBS-011,13.0,11.3,Não,Não
+PAC0238,36,Masculino,Juazeiro do Norte,Rural,Superior,,Influenza,1ª Dose,2023-01-19,UBS-027,23.0,7.4,Não,Sim
+PAC0239,39,Feminino,Itapipoca,Rural,,2.6,Influenza,Reforço,2023-05-01,UBS-004,12.0,24.8,Não,Não
+PAC0240,52,Masculino,Fortaleza,Urbana,Médio,3.9,COVID-19,1ª Dose,2023-08-20,UBS-001,53.0,,Não,Sim
+PAC0241,54,Feminino,Caucaia,Urbana,Médio,2.0,COVID-19,3ª Dose,2023-07-19,UBS-025,45.0,3.2,Não,Sim
+PAC0242,34,Feminino,Maracanaú,Urbana,,0.6,COVID-19,1ª Dose,2023-10-07,UBS-021,21.0,1.4,Não,Sim
+PAC0243,44,Feminino,Sobral,Urbana,Médio,1.8,COVID-19,Reforço,2023-09-23,UBS-022,12.0,1.1,Não,Sim
+PAC0244,83,Masculino,Fortaleza,Urbana,Sem escolaridade,3.2,Influenza,2ª Dose,2023-03-16,UBS-016,11.0,4.8,Não,Sim
+PAC0245,76,Masculino,Quixadá,Rural,Superior,2.1,Febre Amarela,Dose Única,2024-12-01,UBS-019,5.0,2.8,Não,Sim
+PAC0246,52,Feminino,Crato,Urbana,Médio,2.1,COVID-19,Dose Única,2024-01-02,UBS-016,38.0,0.9,Não,Não
+PAC0247,45,Masculino,Maracanaú,Urbana,Médio,2.9,COVID-19,1ª Dose,2024-09-08,UBS-011,16.0,11.4,Não,Sim
+PAC0248,47,Feminino,Quixadá,Urbana,Sem escolaridade,3.1,COVID-19,1ª Dose,2023-09-29,UBS-026,12.0,1.6,Não,Sim
+PAC0249,56,Feminino,Juazeiro do Norte,Urbana,Médio,,influenza,Reforço,2024-03-25,UBS-008,17.0,7.4,Não,Não
+PAC0250,26,Feminino,Quixadá,Rural,Fundamental,2.2,COVID-19,2ª Dose,2024-11-06,UBS-023,39.0,2.2,Não,Não
+PAC0251,40,Masculino,Maracanaú,Urbana,Fundamental,2.0,TÉTANO,1ª Dose,2023-06-28,UBS-001,7.0,8.9,Não,Não
+PAC0252,18,Masculino,Fortaleza,Urbana,Médio,2.3,Hepatite B,2ª Dose,2024-08-19,UBS-026,43.0,1.1,Não,Sim
+PAC0253,52,Feminino,Itapipoca,Urbana,Sem escolaridade,0.8,Tétano,3ª Dose,2023-05-03,UBS-028,50.0,7.6,Não,Sim
+PAC0254,56,Masculino,Crato,Urbana,Médio,4.3,Febre Amarela,1ª Dose,2024-04-03,UBS-021,63.0,1.0,Não,Sim
+PAC0255,36,Masculino,Itapipoca,Rural,Médio,2.2,Influenza,1ª Dose,2024-04-21,UBS-026,15.0,,Não,Sim
+PAC0256,73,Feminino,Quixadá,Rural,Superior,2.8,INFLUENZA,1ª Dose,2023-11-01,UBS-009,9.0,7.1,Não,Sim
+PAC0257,22,Feminino,Itapipoca,Rural,Médio,5.4,COVID-19,2ª Dose,2023-09-17,UBS-028,14.0,1.5,Não,Sim
+PAC0258,18,Feminino,Sobral,Urbana,Fundamental,2.8,Influenza,Reforço,2023-12-15,UBS-027,13.0,2.2,Não,Não
+PAC0259,49,Feminino,Maranguape,Rural,Superior,1.0,Tétano,Reforço,2023-04-01,UBS-012,8.0,10.5,Não,Não
+PAC0260,63,Masculino,Crato,Rural,Médio,2.1,COVID-19,3ª Dose,2024-01-27,UBS-022,23.0,11.3,Não,Sim
+PAC0261,-8,Feminino,Juazeiro do Norte,Rural,Médio,3.1,Febre Amarela,1ª Dose,2024-05-30,UBS-008,17.0,0.7,Sim,Sim
+PAC0262,36,Feminino,Iguatu,Urbana,Médio,2.3,Covid-19,Reforço,2024-10-16,UBS-026,45.0,1.4,Não,Sim
+PAC0263,64,Masculino,Fortaleza,Urbana,Superior,,Febre Amarela,2ª Dose,2024-03-22,UBS-017,5.0,1.1,Não,Sim
+PAC0264,44,Feminino,Crato,Urbana,Fundamental,1.5,Tétano,1ª Dose,2023-10-21,UBS-010,25.0,1.5,Não,Sim
+PAC0265,41,Feminino,Iguatu,Rural,Médio,4.1,Hepatite B,Reforço,2024-01-13,UBS-027,33.0,18.1,Não,Não
+PAC0266,60,Feminino,Itapipoca,Rural,Médio,3.4,Hepatite B,Dose Única,2024-01-23,UBS-007,33.0,4.5,Não,Sim
+PAC0267,56,Feminino,Crato,Urbana,Sem escolaridade,2.3,Influenza,Dose Única,2024-05-12,UBS-019,48.0,3.7,Sim,Sim
+PAC0268,18,Feminino,Itapipoca,Urbana,Superior,2.6,Febre Amarela,Dose Única,2024-07-27,UBS-025,31.0,21.3,Não,Sim
+PAC0269,71,Masculino,Juazeiro do Norte,Rural,Médio,,Tétano,1ª Dose,2023-07-04,UBS-006,57.0,4.6,Sim,Não
+PAC0270,-8,Masculino,Iguatu,Rural,Médio,1.9,Febre Amarela,1ª Dose,2023-03-29,UBS-021,13.0,5.9,Não,Não
+PAC0271,33,Feminino,Fortaleza,Periurbana,Médio,,Hepatite B,Dose Única,2023-01-23,UBS-024,18.0,2.5,Não,Não
+PAC0272,52,Feminino,Fortaleza,Urbana,Fundamental,2.1,Hepatite B,1ª Dose,2024-04-27,UBS-024,5.0,,Não,Sim
+PAC0273,53,Feminino,Caucaia,Urbana,,2.3,Febre Amarela,2ª Dose,2024-07-21,UBS-028,5.0,5.0,Não,Sim
+PAC0274,49,Feminino,Maracanaú,Urbana,Superior,3.7,Influenza,Dose Única,2023-01-27,UBS-028,10.0,0.9,Sim,Sim
+PAC0275,35,Feminino,Maracanaú,Urbana,Médio,0.9,Febre Amarela,Dose Única,2024-05-17,UBS-019,7.0,2.0,Não,Sim
+PAC0276,-4,Feminino,Maranguape,Rural,Superior,2.7,Influenza,2ª Dose,2023-09-07,UBS-018,11.0,1.6,Não,Não
+PAC0277,44,Feminino,Juazeiro do Norte,Rural,Sem escolaridade,,COVID-19,Dose Única,2023-01-09,UBS-015,,0.6,Não,Sim
+PAC0278,66,Feminino,Maracanaú,Urbana,Superior,,Influenza,Dose Única,2023-05-13,UBS-002,5.0,4.3,Não,Sim
+PAC0279,54,Feminino,Fortaleza,Urbana,Fundamental,1.2,Influenza,Dose Única,2024-04-24,UBS-014,53.0,4.6,Não,Sim
+PAC0280,38,Feminino,Juazeiro do Norte,Rural,Fundamental,1.8,COVID-19,1ª Dose,2023-07-12,UBS-021,5.0,2.9,Sim,Sim
+PAC0281,58,Feminino,Sobral,Urbana,Fundamental,1.0,COVID-19,1ª Dose,2023-03-05,UBS-010,31.0,2.1,Não,Sim
+PAC0282,18,Masculino,Fortaleza,Urbana,Fundamental,2.5,Influenza,2ª Dose,2024-11-17,UBS-028,8.0,5.8,Não,Sim
+PAC0283,65,Masculino,Caucaia,Urbana,Fundamental,2.1,COVID-19,1ª Dose,2023-12-03,UBS-016,53.0,1.2,Sim,Sim
+PAC0284,18,Masculino,Fortaleza,Urbana,Superior,2.6,COVID 19,1ª Dose,2023-02-02,UBS-007,49.0,4.2,Não,Sim
+PAC0285,38,Feminino,Fortaleza,Urbana,Superior,2.1,Hepatite B,1ª Dose,2023-10-13,UBS-008,26.0,7.8,Sim,Não
+PAC0286,24,Masculino,Maracanaú,Urbana,,2.5,Tétano,2ª Dose,2023-03-28,UBS-010,27.0,1.4,Não,Sim
+PAC0287,21,Masculino,Fortaleza,Urbana,Fundamental,2.8,Hepatite B,Reforço,2024-11-12,UBS-015,5.0,,Não,Sim
+PAC0288,65,Feminino,Itapipoca,Rural,Superior,1.2,Tétano,1ª Dose,2024-01-23,UBS-008,88.0,7.7,Não,Sim
+PAC0289,36,Masculino,Maranguape,Rural,Médio,2.6,Hepatite B,Dose Única,2023-11-22,UBS-013,47.0,0.8,Sim,Sim
+PAC0290,51,Feminino,Maracanaú,Periurbana,Fundamental,4.6,COVID-19,Dose Única,2024-06-18,UBS-012,50.0,0.6,,Não
+PAC0291,44,Masculino,Quixadá,Rural,Médio,1.4,Hepatite B,1ª Dose,2024-11-18,UBS-008,26.0,18.7,Não,Sim
+PAC0292,53,Masculino,Juazeiro do Norte,Urbana,Médio,2.6,Hepatite B,Reforço,2024-06-27,UBS-015,13.0,,Não,Sim
+PAC0293,46,Feminino,Maracanaú,Urbana,Fundamental,4.3,Influenza,3ª Dose,2024-03-18,UBS-026,49.0,9.1,Não,Não
+PAC0294,21,Masculino,Quixadá,Rural,Médio,1.2,COVID-19,2ª Dose,2024-12-06,UBS-012,11.0,4.6,Não,Não
+PAC0295,62,Masculino,Fortaleza,Urbana,Médio,3.3,Hepatite B,Dose Única,2024-07-10,UBS-011,21.0,2.0,Não,Sim
+PAC0296,36,Feminino,Quixadá,Rural,Fundamental,2.0,COVID-19,1ª Dose,2024-07-10,UBS-019,7.0,1.2,Não,Sim
+PAC0297,18,Feminino,Fortaleza,Urbana,Superior,3.7,Hepatite B,Dose Única,2024-08-02,UBS-014,56.0,3.9,,Sim
+PAC0298,37,Masculino,Juazeiro do Norte,Urbana,Médio,1.5,COVID-19,1ª Dose,2024-06-26,UBS-027,8.0,3.1,,Não
+PAC0299,72,Feminino,Fortaleza,Urbana,Fundamental,2.2,Influenza,Dose Única,2023-02-02,UBS-018,10.0,6.5,Não,Sim
+PAC0300,60,Masculino,Itapipoca,Urbana,,1.0,Influenza,2ª Dose,2024-10-08,UBS-013,21.0,12.2,Não,Sim
+PAC0301,38,Masculino,Sobral,Rural,Fundamental,2.8,COVID-19,3ª Dose,2024-01-06,UBS-004,33.0,8.7,Não,Sim
+PAC0302,38,Feminino,Crato,Rural,Médio,2.8,Influenza,1ª Dose,2024-02-12,UBS-017,24.0,2.1,Não,Sim
+PAC0303,39,Feminino,Juazeiro do Norte,Urbana,Fundamental,2.9,Hepatite B,Dose Única,2024-12-09,UBS-019,10.0,11.1,Não,Não
+PAC0304,82,Feminino,Caucaia,Urbana,Médio,2.8,Febre Amarela,Dose Única,2024-01-19,UBS-027,5.0,9.5,Não,Não
+PAC0305,51,Feminino,Fortaleza,Urbana,Fundamental,2.1,Febre Amarela,2ª Dose,2024-03-11,UBS-009,33.0,13.7,Sim,Sim
+PAC0306,52,Feminino,Caucaia,Urbana,Médio,1.1,Influenza,3ª Dose,2024-08-29,UBS-023,89.0,3.6,Sim,Sim
+PAC0307,63,Feminino,Iguatu,Rural,Médio,3.7,Hepatite B,2ª Dose,2024-09-05,UBS-007,38.0,7.8,Sim,Sim
+PAC0308,49,Masculino,Juazeiro do Norte,Urbana,Médio,2.2,covid19,Reforço,2023-01-02,UBS-001,17.0,5.0,Não,Não
+PAC0309,40,Feminino,Maranguape,Rural,Médio,2.7,COVID-19,2ª Dose,2023-01-20,UBS-007,51.0,,Não,Não
+PAC0310,41,Masculino,Maranguape,Rural,Superior,2.0,COVID-19,Dose Única,2023-10-05,UBS-026,15.0,26.5,Não,Não
+PAC0311,43,Masculino,Juazeiro do Norte,Urbana,Médio,5.9,Influenza,Dose Única,2023-04-24,UBS-007,19.0,0.7,Não,Não
+PAC0312,44,Masculino,Sobral,Rural,Fundamental,1.7,COVID-19,2ª Dose,2024-09-16,UBS-020,17.0,,Não,Sim
+PAC0313,58,Masculino,Fortaleza,Urbana,Médio,1.6,COVID-19,1ª Dose,2024-10-29,UBS-007,16.0,11.7,Sim,Não
+PAC0314,45,Feminino,Fortaleza,Urbana,Superior,,Hepatite B,2ª Dose,2024-11-10,UBS-008,34.0,0.8,Não,Sim
+PAC0315,58,Feminino,Fortaleza,Periurbana,Fundamental,2.4,Hepatite B,Dose Única,2024-01-08,UBS-016,19.0,11.4,Sim,Sim
+PAC0316,43,Feminino,Sobral,Urbana,Fundamental,5.6,Influenza,1ª Dose,2023-08-31,UBS-003,12.0,6.8,Sim,Sim
+PAC0317,46,Masculino,Juazeiro do Norte,Urbana,Médio,2.4,COVID-19,2ª Dose,2024-09-08,UBS-013,10.0,0.7,Não,Sim
+PAC0318,18,Masculino,Maracanaú,Urbana,Médio,2.5,Influenza,Dose Única,2024-05-16,UBS-010,5.0,3.3,Não,Não
+PAC0319,61,Masculino,Maracanaú,Urbana,Médio,3.6,Influenza,2ª Dose,2023-03-24,UBS-018,22.0,7.5,Não,Sim
+PAC0320,51,Masculino,Caucaia,Urbana,,2.4,Hepatite B,3ª Dose,2023-10-11,UBS-007,,4.9,Não,Não
+PAC0321,62,Feminino,Crato,Rural,Fundamental,4.1,COVID-19,1ª Dose,2023-12-22,UBS-021,8.0,14.2,Não,Sim
+PAC0322,18,Feminino,Itapipoca,Urbana,Superior,4.4,Hepatite B,1ª Dose,2024-09-07,UBS-021,26.0,10.6,Não,Não
+PAC0323,82,Feminino,Fortaleza,Urbana,Sem escolaridade,1.7,Febre Amarela,Dose Única,2023-07-01,UBS-030,27.0,2.5,Não,Sim
+PAC0324,42,Masculino,Fortaleza,Urbana,,1.1,COVID-19,1ª Dose,2024-02-21,UBS-005,32.0,0.9,Não,Sim
+PAC0325,64,Feminino,Crato,Rural,Médio,3.1,Tétano,1ª Dose,2024-06-05,UBS-023,19.0,14.9,Não,Sim
+PAC0326,26,Feminino,Juazeiro do Norte,Rural,Superior,2.6,Influenza,Reforço,2023-08-18,UBS-025,49.0,4.1,Não,Sim
+PAC0327,56,Feminino,Crato,Urbana,Médio,1.3,COVID-19,2ª Dose,2023-06-23,UBS-027,60.0,0.9,Não,Não
+PAC0328,-3,Feminino,Caucaia,Urbana,Superior,1.6,Influenza,Reforço,2023-06-20,UBS-024,37.0,9.0,Não,Sim
+PAC0329,33,Masculino,Juazeiro do Norte,Urbana,Fundamental,1.6,COVID-19,Reforço,2023-08-09,UBS-022,25.0,10.6,Não,Sim
+PAC0330,79,Masculino,Fortaleza,Urbana,Fundamental,2.4,COVID-19,1ª Dose,2024-03-18,UBS-007,12.0,,Não,Não
+PAC0331,41,Masculino,Caucaia,Urbana,Fundamental,3.7,Influenza,1ª Dose,2024-12-24,UBS-025,86.0,,Não,Sim
+PAC0332,48,Feminino,Sobral,Rural,Superior,3.8,Febre Amarela,Dose Única,2024-04-21,UBS-030,11.0,5.9,Não,Sim
+PAC0333,60,Masculino,Juazeiro do Norte,Urbana,,,Tétano,2ª Dose,2023-09-01,UBS-027,9.0,6.6,Não,Sim
+PAC0334,53,Masculino,Itapipoca,Urbana,Sem escolaridade,1.9,Hepatite B,1ª Dose,2023-03-23,UBS-022,16.0,,Não,Sim
+PAC0335,47,Masculino,Maranguape,Urbana,,6.8,COVID-19,Dose Única,2024-03-29,UBS-017,6.0,16.1,Não,Não
+PAC0336,51,Masculino,Maracanaú,Urbana,Médio,2.3,Hepatite B,1ª Dose,2023-09-21,UBS-004,81.0,4.1,Não,Não
+PAC0337,88,Feminino,Itapipoca,Urbana,Médio,1.8,Hepatite B,Reforço,2024-09-17,UBS-024,22.0,8.5,Não,Não
+PAC0338,43,Feminino,Caucaia,Urbana,Superior,1.1,Febre Amarela,1ª Dose,2024-08-07,UBS-023,21.0,17.2,Não,Sim
+PAC0339,48,Masculino,Juazeiro do Norte,Urbana,Fundamental,1.9,Febre Amarela,1ª Dose,2023-03-12,UBS-016,26.0,1.3,Não,Sim
+PAC0340,63,Masculino,Crato,Urbana,Fundamental,2.8,Febre amarela,1ª Dose,2024-11-30,UBS-019,18.0,0.6,Não,Sim
+PAC0341,64,Feminino,Juazeiro do Norte,Rural,Fundamental,,Influenza,Reforço,2024-09-10,UBS-010,5.0,10.7,Não,Não
+PAC0342,66,Masculino,Sobral,Rural,Fundamental,1.4,Hepatite B,Dose Única,2023-01-11,UBS-003,23.0,1.6,Não,Sim
+PAC0343,56,Masculino,Fortaleza,Periurbana,Fundamental,1.8,COVID-19,Dose Única,2024-02-10,UBS-027,30.0,0.7,Não,Sim
+PAC0344,24,Masculino,Sobral,Urbana,Médio,1.5,Tétano,2ª Dose,2024-11-27,UBS-003,15.0,1.4,Não,Não
+PAC0345,74,Masculino,Iguatu,Rural,Fundamental,1.4,COVID-19,2ª Dose,2023-10-02,UBS-028,33.0,2.9,Não,Não
+PAC0346,24,Feminino,Iguatu,Urbana,Superior,3.9,COVID-19,1ª Dose,2024-06-25,UBS-017,10.0,,Não,Não
+PAC0347,50,Feminino,Itapipoca,Urbana,Fundamental,1.0,COVID-19,2ª Dose,2023-10-12,UBS-010,10.0,2.3,Não,Não
+PAC0348,31,Masculino,Itapipoca,Rural,Fundamental,,Febre Amarela,3ª Dose,2024-03-28,UBS-017,8.0,19.0,,Sim
+PAC0349,43,Masculino,Maracanaú,Urbana,Fundamental,2.9,Influenza,3ª Dose,2023-06-07,UBS-022,14.0,6.6,Sim,Sim
+PAC0350,50,Feminino,Sobral,Rural,Médio,1.7,Influenza,1ª Dose,2023-10-18,UBS-030,42.0,6.7,Sim,Sim
+PAC0351,50,Feminino,Fortaleza,Urbana,Médio,2.0,Tétano,Reforço,2023-07-09,UBS-030,40.0,1.0,Não,Sim
+PAC0352,131,Feminino,Juazeiro do Norte,Rural,,2.2,Tétano,1ª Dose,2024-08-24,UBS-017,14.0,7.1,Não,Sim
+PAC0353,74,Feminino,Juazeiro do Norte,Rural,Médio,3.1,COVID-19,Reforço,2023-08-22,UBS-021,22.0,7.2,Não,Sim
+PAC0354,53,Masculino,Quixadá,Urbana,Superior,4.8,COVID-19,1ª Dose,2023-05-23,UBS-004,30.0,5.9,,Não
+PAC0355,40,Masculino,Juazeiro do Norte,Rural,Médio,1.2,Febre Amarela,2ª Dose,2023-12-15,UBS-021,489.0,1.8,Não,Sim
+PAC0356,62,Feminino,Maracanaú,Urbana,Sem escolaridade,,Tétano,2ª Dose,2023-11-01,UBS-023,8.0,3.2,Não,Sim
+PAC0357,66,Masculino,Maracanaú,Urbana,Superior,1.4,Influenza,2ª Dose,2023-12-13,UBS-006,76.0,9.9,Não,Não
+PAC0358,22,Feminino,Sobral,Rural,,2.2,Hepatite B,3ª Dose,2024-03-18,UBS-012,24.0,6.0,Não,Sim
+PAC0359,55,Feminino,Itapipoca,Rural,,1.8,COVID-19,2ª Dose,2024-02-19,UBS-025,84.0,7.1,Não,Não
+PAC0360,57,Feminino,Fortaleza,Urbana,Fundamental,3.1,febre amarela,2ª Dose,2024-02-01,UBS-022,13.0,4.9,Não,Não
+PAC0361,39,Masculino,Maracanaú,Urbana,Médio,1.6,Hepatite B,Dose Única,2023-06-18,UBS-025,29.0,,Não,Não
+PAC0362,69,Feminino,Maranguape,Urbana,Fundamental,1.4,Influenza,Dose Única,2024-10-07,UBS-020,10.0,7.6,Não,Sim
+PAC0363,42,Masculino,Juazeiro do Norte,Urbana,Fundamental,1.5,COVID-19,Dose Única,2024-01-15,UBS-017,11.0,0.9,Não,Não
+PAC0364,47,Feminino,Caucaia,Urbana,Médio,2.4,Tétano,1ª Dose,2024-05-27,UBS-017,19.0,6.1,Não,Sim
+PAC0365,41,Feminino,Crato,Urbana,Superior,3.6,Hepatite B,3ª Dose,2024-09-29,UBS-010,12.0,29.9,Não,Não
+PAC0366,45,Masculino,Maranguape,Rural,Médio,2.2,COVID-19,3ª Dose,2023-05-26,UBS-007,8.0,8.1,Não,Sim
+PAC0367,25,Feminino,Fortaleza,Urbana,Superior,1.7,Hepatite B,2ª Dose,2024-09-09,UBS-029,11.0,2.2,Não,Sim
+PAC0368,19,Feminino,Itapipoca,Rural,Sem escolaridade,1.3,Hepatite B,2ª Dose,2024-05-06,UBS-016,5.0,2.1,Não,Não
+PAC0369,73,Masculino,Maranguape,Rural,Sem escolaridade,4.6,influenza,2ª Dose,2024-03-12,UBS-029,29.0,6.0,Não,Sim
+PAC0370,29,Masculino,Juazeiro do Norte,Rural,Médio,0.9,Hepatite B,1ª Dose,2023-01-15,UBS-013,18.0,11.8,Não,Não
+PAC0371,27,Masculino,Quixadá,Urbana,,2.0,INFLUENZA,1ª Dose,2023-08-15,UBS-003,6.0,4.8,Não,Sim
+PAC0372,18,Masculino,Itapipoca,Rural,,,Tétano,1ª Dose,2024-03-04,UBS-002,8.0,4.2,Não,Não
+PAC0373,33,Masculino,Itapipoca,Urbana,Fundamental,2.0,COVID-19,Dose Única,2024-11-26,UBS-016,7.0,,Não,Não
+PAC0374,21,Feminino,Itapipoca,Rural,Médio,,COVID-19,Dose Única,2024-10-17,UBS-030,23.0,6.8,Sim,Sim
+PAC0375,74,Masculino,Fortaleza,Urbana,Médio,2.9,COVID-19,Reforço,2024-04-21,UBS-006,6.0,6.6,Não,Sim
+PAC0376,63,Masculino,Fortaleza,Urbana,Fundamental,1.3,Hepatite B,Dose Única,2024-04-10,UBS-006,33.0,17.5,Não,Sim
+PAC0377,32,Feminino,Juazeiro do Norte,Rural,Superior,0.9,Hepatite B,1ª Dose,2024-07-10,UBS-013,5.0,2.3,Não,Não
+PAC0378,85,Masculino,Caucaia,Periurbana,Médio,,Febre Amarela,Reforço,2024-10-18,UBS-007,10.0,7.6,Sim,Sim
+PAC0379,62,Feminino,Juazeiro do Norte,Rural,Médio,1.4,Hepatite B,Reforço,2024-03-10,UBS-005,49.0,3.3,Não,Sim
+PAC0380,39,Masculino,Iguatu,Rural,Superior,2.4,Influenza,2ª Dose,2023-11-13,UBS-024,30.0,4.6,Não,Sim
+PAC0381,18,Masculino,Maranguape,Urbana,Fundamental,2.1,Tétano,3ª Dose,2023-09-28,UBS-007,6.0,9.0,Não,Sim
+PAC0382,86,Feminino,Sobral,Rural,Superior,2.5,COVID-19,Reforço,2024-02-13,UBS-002,39.0,1.8,Não,Sim
+PAC0383,19,Feminino,Maranguape,Urbana,Fundamental,2.0,Febre Amarela,2ª Dose,2024-10-12,UBS-017,18.0,2.6,Não,Sim
+PAC0384,18,Feminino,Itapipoca,Urbana,Fundamental,,Influenza,Reforço,2023-02-26,UBS-013,42.0,7.9,Não,Não
+PAC0385,63,Feminino,Juazeiro do Norte,Urbana,Superior,1.6,Hepatite B,1ª Dose,2024-01-31,UBS-030,23.0,4.7,Não,Sim
+PAC0386,88,Feminino,Fortaleza,Urbana,Superior,3.3,Hepatite B,1ª Dose,2023-07-27,UBS-025,27.0,1.0,Não,Sim
+PAC0387,69,Masculino,Maracanaú,Urbana,Médio,1.2,Hepatite B,2ª Dose,2024-04-17,UBS-021,105.0,3.3,Não,Sim
+PAC0388,55,Masculino,Itapipoca,Urbana,Médio,4.0,COVID-19,3ª Dose,2023-04-12,UBS-028,423.0,4.9,Não,Sim
+PAC0389,55,Feminino,Juazeiro do Norte,Urbana,Superior,6.2,Influenza,Dose Única,2024-02-08,UBS-027,24.0,12.5,Não,Não
+PAC0390,60,Feminino,Crato,Rural,Fundamental,2.3,Influenza,Reforço,2024-12-29,UBS-021,17.0,,,Sim
+PAC0391,58,Feminino,Fortaleza,Urbana,Sem escolaridade,4.9,Febre Amarela,2ª Dose,2023-07-25,UBS-028,5.0,8.7,Não,Sim
+PAC0392,50,Masculino,Itapipoca,Rural,Médio,5.6,Influenza,1ª Dose,2024-02-14,UBS-016,5.0,1.2,Não,Sim
+PAC0393,46,Masculino,Maranguape,Urbana,Fundamental,1.9,Tétano,Dose Única,2023-07-07,UBS-026,7.0,1.9,Não,Não
+PAC0394,43,Feminino,Crato,Urbana,Fundamental,2.3,Influenza,3ª Dose,2024-08-23,UBS-020,25.0,1.9,Não,Não
+PAC0395,31,Masculino,Quixadá,Rural,Superior,1.5,Influenza,1ª Dose,2023-09-20,UBS-002,21.0,11.0,Não,Sim
+PAC0396,39,Feminino,Maranguape,Urbana,,1.5,Febre Amarela,2ª Dose,2023-11-17,UBS-005,21.0,1.6,Sim,Sim
+PAC0397,18,Feminino,Iguatu,Urbana,Superior,2.5,Influenza,Dose Única,2023-07-16,UBS-018,5.0,8.2,Não,Sim
+PAC0398,43,Masculino,Quixadá,Rural,Médio,1.0,tetano,Dose Única,2023-04-08,UBS-028,17.0,3.6,Sim,Não
+PAC0399,27,Feminino,Maranguape,Urbana,Médio,3.4,Hepatite B,2ª Dose,2024-06-28,UBS-007,56.0,35.5,Não,Sim
+PAC0400,25,Feminino,Crato,Urbana,,2.4,Influenza,2ª Dose,2024-04-11,UBS-011,15.0,9.6,Não,Não
+PAC0401,48,Masculino,Fortaleza,Urbana,Médio,3.1,COVID-19,Reforço,2023-03-17,UBS-025,24.0,7.2,Não,Não
+PAC0402,70,Feminino,Juazeiro do Norte,Urbana,Fundamental,2.0,Influenza,Dose Única,2024-07-13,UBS-025,35.0,10.7,Não,Não
+PAC0403,61,Feminino,Sobral,Rural,Fundamental,3.1,COVID-19,2ª Dose,2023-03-10,UBS-011,35.0,5.5,Não,Sim
+PAC0404,18,Feminino,Caucaia,Urbana,Médio,2.5,Hep. B,1ª Dose,2024-09-11,UBS-022,19.0,9.8,Não,Sim
+PAC0405,27,Masculino,Caucaia,Urbana,Fundamental,2.9,COVID-19,Dose Única,2024-06-15,UBS-017,44.0,2.0,Não,Não
+PAC0406,61,Feminino,Quixadá,Rural,Sem escolaridade,3.5,COVID-19,1ª Dose,2024-02-22,UBS-016,14.0,1.0,Não,Sim
+PAC0407,27,Masculino,Iguatu,Rural,Superior,1.2,COVID-19,1ª Dose,2023-12-17,UBS-013,48.0,5.3,Não,Sim
+PAC0408,40,Masculino,Maranguape,Rural,Superior,1.6,COVID-19,2ª Dose,2024-07-23,UBS-022,10.0,3.4,Não,Sim
+PAC0409,54,Feminino,Juazeiro do Norte,Urbana,Fundamental,7.1,COVID-19,1ª Dose,2023-06-25,UBS-005,11.0,3.3,Não,Sim
+PAC0410,27,Masculino,Fortaleza,Urbana,Sem escolaridade,2.5,Febre Amarela,3ª Dose,2023-01-09,UBS-020,6.0,4.2,Não,Sim
+PAC0411,46,Masculino,Fortaleza,Urbana,Médio,0.9,Febre Amarela,1ª Dose,2023-04-17,UBS-016,36.0,2.7,Não,Sim
+PAC0412,20,Feminino,Caucaia,Urbana,Superior,,Hepatite B,Dose Única,2024-11-17,UBS-028,15.0,5.4,Não,Sim
+PAC0413,34,Feminino,Fortaleza,Urbana,Fundamental,2.1,Febre Amarela,1ª Dose,2024-07-02,UBS-022,10.0,0.7,Não,Sim
+PAC0414,50,Feminino,Fortaleza,Periurbana,Fundamental,1.7,COVID-19,1ª Dose,2024-03-14,UBS-022,10.0,18.0,Não,Sim
+PAC0415,18,Feminino,Iguatu,Rural,Superior,1.5,Febre Amarela,1ª Dose,2023-03-10,UBS-016,51.0,13.4,Não,Não
+PAC0416,52,Masculino,Crato,Urbana,Superior,5.5,COVID-19,Reforço,2024-08-26,UBS-016,40.0,14.2,Não,Sim
+PAC0417,44,Masculino,Caucaia,Urbana,Médio,1.9,COVID-19,Reforço,2023-08-02,UBS-014,21.0,2.8,Não,Não
+PAC0418,54,Masculino,Fortaleza,Periurbana,Fundamental,3.4,Influenza,1ª Dose,2023-01-18,UBS-006,24.0,4.3,Não,Não
+PAC0419,49,Feminino,Maracanaú,Urbana,Médio,2.5,COVID-19,Dose Única,2023-07-18,UBS-002,17.0,15.9,Não,Não
+PAC0420,69,Feminino,Fortaleza,Urbana,Médio,1.9,Hepatite B,3ª Dose,2024-01-04,UBS-014,14.0,12.1,Não,Não
+PAC0421,47,Feminino,Quixadá,Urbana,Fundamental,1.3,Influenza,Reforço,2023-05-01,UBS-016,54.0,8.3,Não,Sim
+PAC0422,37,Feminino,Juazeiro do Norte,Rural,Fundamental,3.3,Febre Amarela,2ª Dose,2024-11-16,UBS-023,7.0,3.1,Não,Sim
+PAC0423,47,Masculino,Juazeiro do Norte,Rural,Fundamental,0.7,Influenza,Dose Única,2024-07-10,UBS-030,15.0,4.7,Não,Não
+PAC0424,54,Feminino,Juazeiro do Norte,Urbana,Médio,3.4,COVID-19,1ª Dose,2023-03-04,UBS-020,13.0,8.4,Sim,Sim
+PAC0425,45,Masculino,Fortaleza,Urbana,Médio,2.4,Hepatite B,2ª Dose,2024-04-22,UBS-013,18.0,2.1,Não,Sim
+PAC0426,45,Feminino,Sobral,Rural,Superior,,covid19,Reforço,2024-04-16,UBS-015,17.0,5.4,Não,Sim
+PAC0427,32,Masculino,Itapipoca,Rural,Médio,2.2,Influenza,2ª Dose,2024-12-20,UBS-012,19.0,9.3,Não,Não
+PAC0428,33,Feminino,Crato,Rural,Superior,1.2,COVID-19,1ª Dose,2024-07-31,UBS-009,8.0,6.6,Não,Sim
+PAC0429,19,Masculino,Fortaleza,Urbana,Superior,2.7,Hepatite B,1ª Dose,2024-04-10,UBS-026,19.0,3.8,Não,Sim
+PAC0430,76,Masculino,Sobral,Rural,Fundamental,3.4,Hepatite B,Dose Única,2024-08-27,UBS-018,10.0,4.9,Não,Não
+PAC0431,22,Masculino,Maracanaú,Urbana,Fundamental,1.8,Influenza,3ª Dose,2023-12-25,UBS-021,9.0,22.9,Não,Não
+PAC0432,32,Feminino,Iguatu,Urbana,Médio,3.1,Tétano,2ª Dose,2024-10-24,UBS-014,6.0,5.1,Não,Sim
+PAC0433,32,Feminino,Juazeiro do Norte,Urbana,Sem escolaridade,2.6,Febre Amarela,Reforço,2023-04-13,UBS-020,33.0,8.2,Não,Não
+PAC0434,61,Masculino,Juazeiro do Norte,Rural,Superior,2.8,Hepatite B,1ª Dose,2024-09-25,UBS-025,16.0,7.0,Não,Sim
+PAC0435,39,Masculino,Sobral,Rural,Sem escolaridade,1.4,Hepatite B,2ª Dose,2023-03-16,UBS-004,24.0,6.5,Não,Não
+PAC0436,67,Feminino,Sobral,Urbana,Fundamental,4.2,COVID-19,Reforço,2023-06-14,UBS-008,31.0,6.8,Não,Sim
+PAC0437,32,Masculino,Juazeiro do Norte,Urbana,Médio,2.6,Hepatite B,2ª Dose,2024-10-20,UBS-008,27.0,3.5,Sim,Sim
+PAC0438,50,Feminino,Juazeiro do Norte,Rural,Médio,3.4,COVID-19,1ª Dose,2024-02-24,UBS-022,17.0,3.7,Não,Não
+PAC0439,29,Feminino,Maracanaú,Urbana,Médio,1.8,COVID-19,2ª Dose,2023-08-03,UBS-022,14.0,3.7,Não,Sim
+PAC0440,83,Masculino,Iguatu,Rural,Médio,3.6,Tétano,Dose Única,2024-10-16,UBS-016,,0.7,Não,Sim
+PAC0441,23,Masculino,Juazeiro do Norte,Rural,Fundamental,1.8,Hepatite B,1ª Dose,2023-08-11,UBS-027,,1.9,Não,Não
+PAC0442,50,Feminino,Quixadá,Rural,Fundamental,1.4,Influenza,Reforço,2023-07-04,UBS-024,18.0,1.3,Não,Sim
+PAC0443,56,Masculino,Maracanaú,Periurbana,Superior,5.4,COVID-19,Dose Única,2023-05-11,UBS-028,42.0,11.4,Não,Não
+PAC0444,52,Masculino,Quixadá,Rural,Fundamental,0.7,Hepatite B,1ª Dose,2023-01-29,UBS-029,46.0,2.1,Não,Sim
+PAC0445,41,Feminino,Maranguape,Urbana,Fundamental,9.9,COVID-19,Dose Única,2024-07-20,UBS-028,8.0,1.2,Não,Sim
+PAC0446,42,Feminino,Caucaia,Urbana,Médio,3.2,COVID-19,2ª Dose,2024-05-26,UBS-010,7.0,1.1,Não,Não
+PAC0447,45,Feminino,Iguatu,Urbana,Fundamental,1.9,COVID-19,2ª Dose,2024-01-15,UBS-025,24.0,,Não,Sim
+PAC0448,42,Feminino,Fortaleza,Urbana,Médio,,Influenza,Dose Única,2024-03-25,UBS-021,12.0,0.5,Não,Sim
+PAC0449,62,Masculino,Iguatu,Rural,Médio,3.2,Hepatite B,Reforço,2024-06-21,UBS-027,5.0,3.7,,Sim
+PAC0450,84,Masculino,Sobral,Rural,Médio,1.9,COVID-19,1ª Dose,2024-02-03,UBS-017,48.0,1.1,Não,Não
+PAC0451,34,Feminino,Fortaleza,Periurbana,Médio,6.2,Hepatite B,2ª Dose,2023-06-21,UBS-001,10.0,10.0,Sim,Sim
+PAC0452,20,Feminino,Sobral,Urbana,Fundamental,4.7,Covid-19,2ª Dose,2023-12-04,UBS-018,57.0,16.4,Não,Sim
+PAC0453,43,Masculino,Quixadá,Urbana,Médio,8.7,Hepatite B,2ª Dose,2023-06-15,UBS-010,,16.4,,Sim
+PAC0454,90,Feminino,Fortaleza,Urbana,Sem escolaridade,1.2,Tétano,2ª Dose,2024-05-25,UBS-026,33.0,3.4,Não,Sim
+PAC0455,30,Masculino,Maracanaú,Urbana,Sem escolaridade,2.5,Hepatite B,1ª Dose,2024-08-25,UBS-021,9.0,5.7,Não,Sim
+PAC0456,74,Feminino,Itapipoca,Rural,Médio,1.1,Febre Amarela,Dose Única,2023-12-19,UBS-004,10.0,5.1,Sim,Não
+PAC0457,75,Masculino,Maranguape,Urbana,Fundamental,1.3,Tétano,2ª Dose,2023-11-10,UBS-001,19.0,2.7,Não,Não
+PAC0458,35,Masculino,Juazeiro do Norte,Rural,Médio,1.9,Influenza,1ª Dose,2023-01-16,UBS-004,8.0,3.4,Não,Sim
+PAC0459,55,Masculino,Fortaleza,Urbana,Médio,1.9,Hepatite B,Dose Única,2023-09-07,UBS-004,12.0,0.8,Não,Sim
+PAC0460,74,Masculino,Fortaleza,Periurbana,Superior,2.7,Febre Amarela,Dose Única,2023-01-29,UBS-026,12.0,8.4,Não,Não
+PAC0461,38,Masculino,Sobral,Rural,Médio,2.1,Influenza,2ª Dose,2023-05-06,UBS-004,8.0,,Não,Sim
+PAC0462,41,Feminino,Juazeiro do Norte,Urbana,Sem escolaridade,3.3,COVID-19,1ª Dose,2023-11-17,UBS-017,418.0,3.6,Não,Sim
+PAC0463,34,Feminino,Quixadá,Rural,Fundamental,2.6,Tétano,3ª Dose,2023-05-11,UBS-009,36.0,3.8,Não,Não
+PAC0464,26,Feminino,Fortaleza,Urbana,Fundamental,,Hepatite B,1ª Dose,2024-03-12,UBS-030,8.0,4.6,Não,Não
+PAC0465,33,Feminino,Crato,Rural,Médio,3.4,COVID-19,1ª Dose,2023-04-07,UBS-019,5.0,9.0,Não,Sim
+PAC0466,22,Masculino,Fortaleza,Urbana,Fundamental,1.2,Influenza,Dose Única,2023-09-13,UBS-013,24.0,6.4,Não,Sim
+PAC0467,45,Masculino,Fortaleza,Urbana,Fundamental,2.1,Febre Amarela,1ª Dose,2024-01-18,UBS-004,79.0,5.9,,Sim
+PAC0468,31,Feminino,Juazeiro do Norte,Urbana,Médio,2.1,Influenza,1ª Dose,2024-01-29,UBS-005,13.0,4.2,Não,Sim
+PAC0469,49,Masculino,Juazeiro do Norte,Urbana,Médio,2.8,Hepatite B,1ª Dose,2024-01-05,UBS-029,7.0,1.0,,Não
+PAC0470,18,Feminino,Crato,Rural,Médio,3.8,Febre Amarela,1ª Dose,2023-03-02,UBS-013,21.0,3.1,Não,Sim
+PAC0471,50,Masculino,Iguatu,Rural,Médio,,Hepatite B,1ª Dose,2024-12-25,UBS-023,52.0,16.3,Não,Sim
+PAC0472,60,Feminino,Sobral,Urbana,Médio,3.0,Influenza,Reforço,2023-12-05,UBS-016,35.0,27.6,Não,Sim
+PAC0473,18,Masculino,Quixadá,Rural,Médio,1.3,Hepatite B,1ª Dose,2024-08-28,UBS-022,24.0,7.1,Não,Sim
+PAC0474,51,Feminino,Iguatu,Rural,Médio,1.8,Hepatite B,1ª Dose,2024-09-20,UBS-005,12.0,1.8,Não,Sim
+PAC0475,67,Feminino,Sobral,Urbana,Sem escolaridade,0.9,Hepatite B,1ª Dose,2023-09-07,UBS-008,20.0,1.0,Não,Não
+PAC0476,23,Feminino,Maranguape,Urbana,Médio,2.8,Influenza,Reforço,2023-07-23,UBS-016,6.0,3.2,Não,Sim
+PAC0477,75,Masculino,Sobral,Urbana,Médio,3.4,Influenza,2ª Dose,2024-09-24,UBS-030,27.0,10.2,Não,Sim
+PAC0478,52,Feminino,Fortaleza,Urbana,Fundamental,1.2,Tétano,2ª Dose,2023-07-11,UBS-001,30.0,6.9,Não,Sim
+PAC0479,32,Feminino,Itapipoca,Urbana,Sem escolaridade,2.4,COVID-19,Reforço,2023-05-01,UBS-023,72.0,11.3,Não,Não
+PAC0480,43,Feminino,Fortaleza,Periurbana,Fundamental,2.1,COVID-19,2ª Dose,2023-08-02,UBS-028,11.0,5.3,Não,Sim
+PAC0481,55,Feminino,Sobral,Rural,Médio,5.2,Influenza,2ª Dose,2024-01-07,UBS-006,5.0,1.2,Não,Sim
+PAC0482,-4,Feminino,Crato,Urbana,Médio,,Febre Amarela,1ª Dose,2024-02-28,UBS-011,20.0,1.1,Não,Sim
+PAC0483,54,Masculino,Fortaleza,Urbana,Fundamental,3.5,COVID-19,2ª Dose,2023-06-14,UBS-016,29.0,0.7,Não,Sim
+PAC0484,28,Feminino,Fortaleza,Urbana,Fundamental,3.9,COVID-19,2ª Dose,2023-05-04,UBS-005,36.0,4.7,Não,Não
+PAC0485,48,Feminino,Iguatu,Rural,Superior,2.0,COVID-19,Dose Única,2024-03-12,UBS-016,9.0,,Não,Sim
+PAC0486,19,Feminino,Sobral,Rural,Fundamental,2.6,Hepatite B,1ª Dose,2024-04-15,UBS-007,11.0,7.1,Não,Não
+PAC0487,42,Masculino,Fortaleza,Urbana,Fundamental,3.8,Covid-19,3ª Dose,2023-11-23,UBS-019,19.0,6.3,Não,Não
+PAC0488,28,Masculino,Crato,Rural,Fundamental,1.3,Influenza,1ª Dose,2024-05-18,UBS-001,13.0,2.4,Não,Não
+PAC0489,31,Feminino,Sobral,Rural,Médio,,Influenza,1ª Dose,2024-09-16,UBS-009,44.0,1.5,Não,Sim
+PAC0490,67,Feminino,Maracanaú,Urbana,Médio,2.4,Febre Amarela,2ª Dose,2024-01-02,UBS-018,17.0,1.0,Não,Sim
+PAC0491,141,Masculino,Quixadá,Urbana,Médio,6.2,Influenza,Reforço,2024-07-11,UBS-013,37.0,7.2,Não,Sim
+PAC0492,55,Feminino,Crato,Rural,Superior,1.8,COVID-19,2ª Dose,2024-01-20,UBS-026,22.0,3.5,,Sim
+PAC0493,25,Masculino,Juazeiro do Norte,Rural,Médio,1.9,Influenza,Dose Única,2024-06-20,UBS-015,34.0,2.5,Sim,Não
+PAC0494,39,Masculino,Maranguape,Urbana,Sem escolaridade,4.8,Tétano,1ª Dose,2023-10-04,UBS-003,13.0,10.2,Não,Não
+PAC0495,66,Masculino,Iguatu,Rural,Médio,3.1,hepatite b,1ª Dose,2023-05-27,UBS-024,40.0,5.0,Não,Não
+PAC0496,47,Masculino,Fortaleza,Urbana,Sem escolaridade,6.6,Tétano,1ª Dose,2024-03-27,UBS-028,11.0,4.1,Não,Sim
+PAC0497,86,Feminino,Fortaleza,Urbana,Médio,3.8,Febre Amarela,2ª Dose,2023-07-01,UBS-010,20.0,7.3,Não,Sim
+PAC0498,52,Masculino,Fortaleza,Urbana,Fundamental,,COVID-19,1ª Dose,2024-11-23,UBS-009,9.0,9.0,,Sim
+PAC0499,48,Feminino,Crato,Urbana,Médio,1.9,Hepatite B,1ª Dose,2023-10-26,UBS-013,17.0,6.3,Não,Não
+PAC0500,39,Feminino,Sobral,Rural,Fundamental,1.5,COVID-19,Dose Única,2024-03-14,UBS-016,12.0,3.4,Sim,Sim
+PAC0501,47,Feminino,Sobral,Urbana,Superior,,Influenza,1ª Dose,2023-04-01,UBS-003,11.0,2.9,Não,Sim
+PAC0502,42,Feminino,Quixadá,Rural,Fundamental,2.6,COVID-19,3ª Dose,2023-03-23,UBS-022,73.0,7.9,Não,Sim
+PAC0503,57,Masculino,Itapipoca,Rural,Médio,3.0,COVID-19,2ª Dose,2024-12-17,UBS-023,8.0,4.1,Não,Não
+PAC0504,62,Feminino,Fortaleza,Urbana,Fundamental,3.2,Tétano,2ª Dose,2023-04-10,UBS-015,35.0,6.6,Sim,Não
+PAC0505,30,Feminino,Caucaia,Urbana,Superior,2.1,COVID-19,3ª Dose,2024-07-07,UBS-017,87.0,11.6,Não,Não
+PAC0506,21,Masculino,Juazeiro do Norte,Rural,Médio,5.8,F. Amarela,2ª Dose,2023-12-28,UBS-014,5.0,12.9,Não,Não
+PAC0507,18,Feminino,Juazeiro do Norte,Rural,Fundamental,1.1,COVID-19,1ª Dose,2024-05-09,UBS-007,29.0,2.1,Não,Sim
+PAC0508,54,Feminino,Crato,Rural,,1.1,COVID-19,Dose Única,2023-04-19,UBS-020,10.0,1.5,Não,Sim
+PAC0509,25,Feminino,Iguatu,Urbana,Fundamental,1.5,Febre Amarela,Reforço,2024-09-30,UBS-016,5.0,2.0,Não,Sim
+PAC0510,18,Feminino,Caucaia,Urbana,Médio,2.2,Hepatite B,1ª Dose,2023-09-07,UBS-021,15.0,7.5,Não,Sim
+PAC0511,51,Feminino,Maracanaú,Urbana,,1.3,Hepatite B,1ª Dose,2024-11-20,UBS-008,59.0,2.8,Sim,Não
+PAC0512,133,Masculino,Itapipoca,Urbana,Sem escolaridade,4.4,COVID-19,Reforço,2024-02-28,UBS-004,5.0,1.5,Não,Sim
+PAC0513,44,Feminino,Juazeiro do Norte,Rural,Superior,1.5,Influenza,2ª Dose,2024-06-18,UBS-020,22.0,1.0,Não,Sim
+PAC0514,60,Feminino,Fortaleza,Urbana,Fundamental,,Hepatite B,3ª Dose,2024-07-25,UBS-024,18.0,2.5,Não,Sim
+PAC0515,46,Masculino,Maracanaú,Urbana,Fundamental,3.8,Hepatite B,2ª Dose,2023-08-22,UBS-015,46.0,1.2,Não,Sim
+PAC0516,43,Masculino,Fortaleza,Urbana,Superior,2.5,Influenza,1ª Dose,2024-08-22,UBS-005,6.0,1.4,Não,Sim
+PAC0517,61,Masculino,Quixadá,Rural,Médio,3.3,Tétano,3ª Dose,2024-11-06,UBS-013,27.0,6.3,Sim,Sim
+PAC0518,39,Feminino,Fortaleza,Urbana,Fundamental,2.2,Hepatite B,2ª Dose,2024-09-20,UBS-006,27.0,0.6,Sim,Sim
+PAC0519,49,Feminino,Juazeiro do Norte,Rural,Fundamental,2.5,Tétano,1ª Dose,2024-01-24,UBS-028,27.0,1.1,Não,Sim
+PAC0520,50,Masculino,Maracanaú,Urbana,Médio,1.1,Hepatite B,2ª Dose,2023-07-30,UBS-027,62.0,9.8,,Sim
+PAC0521,32,Feminino,Quixadá,Rural,Sem escolaridade,,Hepatite B,Dose Única,2023-12-23,UBS-030,39.0,9.8,Não,Sim
+PAC0522,62,Masculino,Fortaleza,Urbana,Superior,1.3,COVID-19,3ª Dose,2023-12-25,UBS-005,5.0,2.5,Sim,Sim
+PAC0523,41,Feminino,Fortaleza,Urbana,Médio,5.9,Influenza,1ª Dose,2024-03-22,UBS-017,17.0,1.0,Não,Não
+PAC0524,31,Feminino,Fortaleza,Urbana,Fundamental,4.2,Febre Amarela,2ª Dose,2023-07-03,UBS-007,15.0,6.6,Não,Sim
+PAC0525,54,Feminino,Fortaleza,Urbana,Fundamental,1.6,COVID-19,Dose Única,2024-12-17,UBS-006,12.0,2.7,Não,Sim
+PAC0526,28,Masculino,Fortaleza,Urbana,Médio,2.0,covid19,Dose Única,2023-02-25,UBS-002,17.0,0.7,Não,Sim
+PAC0527,45,Masculino,Sobral,Urbana,Fundamental,2.1,COVID-19,3ª Dose,2024-04-17,UBS-011,14.0,1.4,Não,Sim
+PAC0528,44,Masculino,Fortaleza,Urbana,Médio,6.5,COVID-19,1ª Dose,2023-10-13,UBS-007,16.0,1.2,Sim,Sim
+PAC0529,64,Masculino,Fortaleza,Urbana,Superior,2.7,Tétano,Dose Única,2023-10-28,UBS-022,82.0,4.9,Não,Não
+PAC0530,152,Feminino,Maranguape,Urbana,Médio,1.8,Febre Amarela,Dose Única,2023-05-06,UBS-021,6.0,11.9,Não,Não
+PAC0531,44,Feminino,Caucaia,Urbana,Médio,2.4,Influenza,1ª Dose,2024-09-30,UBS-008,56.0,8.4,Não,Sim
+PAC0532,59,Feminino,Caucaia,Periurbana,Fundamental,,COVID-19,2ª Dose,2023-05-27,UBS-005,18.0,4.5,Não,Sim
+PAC0533,70,Feminino,Caucaia,Urbana,Médio,2.1,Hepatite B,2ª Dose,2023-06-07,UBS-027,24.0,3.2,Não,Sim
+PAC0534,55,Feminino,Quixadá,Rural,Médio,1.3,Hepatite B,Dose Única,2023-10-02,UBS-018,40.0,5.3,Não,Sim
+PAC0535,45,Feminino,Fortaleza,Urbana,Médio,0.9,Tétano,1ª Dose,2024-06-09,UBS-022,13.0,3.4,Não,Sim
+PAC0536,21,Feminino,Iguatu,Rural,Sem escolaridade,6.0,Influenza,3ª Dose,2024-03-03,UBS-016,467.0,1.9,Não,Não
+PAC0537,25,Feminino,Itapipoca,Rural,Superior,2.2,COVID-19,Reforço,2023-01-08,UBS-014,15.0,6.2,Sim,Sim
+PAC0538,39,Masculino,Fortaleza,Urbana,Fundamental,1.5,Influenza,Dose Única,2024-08-06,UBS-012,14.0,10.8,Não,Sim
+PAC0539,34,Masculino,Quixadá,Urbana,Médio,1.0,Tétano,Reforço,2024-07-14,UBS-017,56.0,2.8,Não,Não
+PAC0540,41,Masculino,Caucaia,Urbana,,2.0,Hepatite B,Reforço,2023-01-09,UBS-005,40.0,9.7,Não,Não
+PAC0541,46,Feminino,Fortaleza,Urbana,Médio,,Hepatite B,1ª Dose,2024-10-13,UBS-014,,3.3,Não,Não
+PAC0542,54,Feminino,Maranguape,Rural,Médio,3.3,Covid-19,3ª Dose,2024-12-24,UBS-006,7.0,3.1,Não,Sim
+PAC0543,43,Masculino,Crato,Rural,Médio,1.4,Hepatite B,2ª Dose,2024-03-06,UBS-015,16.0,0.6,Não,Sim
+PAC0544,53,Feminino,Sobral,Urbana,Sem escolaridade,1.7,Febre Amarela,Reforço,2023-11-14,UBS-007,7.0,6.4,Sim,Não
+PAC0545,46,Feminino,Fortaleza,Urbana,Médio,,COVID-19,1ª Dose,2024-05-14,UBS-014,24.0,8.7,Não,Sim
+PAC0546,18,Masculino,Maracanaú,Urbana,Fundamental,2.0,Influenza,Reforço,2024-03-19,UBS-018,8.0,5.9,Não,Sim
+PAC0547,28,Masculino,Itapipoca,Urbana,Médio,,COVID-19,3ª Dose,2024-08-20,UBS-001,19.0,1.3,Não,Não
+PAC0548,42,Feminino,Caucaia,Urbana,Fundamental,1.5,COVID-19,Dose Única,2023-09-29,UBS-006,5.0,1.0,Sim,Sim
+PAC0549,23,Feminino,Caucaia,Urbana,Superior,3.0,COVID-19,1ª Dose,2023-07-18,UBS-003,12.0,4.8,,Não
+PAC0550,55,Feminino,Fortaleza,Periurbana,Médio,1.2,COVID-19,1ª Dose,2024-11-10,UBS-005,27.0,3.1,Não,Não
+PAC0551,72,Feminino,Fortaleza,Periurbana,Médio,3.7,Influenza,Dose Única,2024-10-16,UBS-012,516.0,3.3,Sim,Não
+PAC0552,66,Feminino,Iguatu,Urbana,Médio,3.4,COVID-19,1ª Dose,2024-11-06,UBS-011,81.0,17.7,Não,Sim
+PAC0553,41,Feminino,Juazeiro do Norte,Urbana,Superior,3.6,COVID-19,Dose Única,2024-05-19,UBS-013,46.0,6.9,Não,Não
+PAC0554,71,Feminino,Quixadá,Rural,Fundamental,2.2,Febre Amarela,1ª Dose,2024-02-25,UBS-016,13.0,3.2,Sim,Não
+PAC0555,47,Feminino,Juazeiro do Norte,Rural,Médio,2.1,Influenza,Dose Única,2024-01-07,UBS-018,5.0,0.6,Não,Não
+PAC0556,38,Masculino,Crato,Rural,Médio,2.6,Hepatite B,2ª Dose,2023-04-06,UBS-017,42.0,0.7,Não,Sim
+PAC0557,33,Masculino,Caucaia,Urbana,Sem escolaridade,4.3,Influenza,3ª Dose,2024-09-16,UBS-017,53.0,6.3,Não,Sim
+PAC0558,39,Masculino,Caucaia,Urbana,Fundamental,4.1,Hepatite B,Dose Única,2024-11-05,UBS-029,39.0,9.6,Não,Não
+PAC0559,38,Feminino,Fortaleza,Urbana,Fundamental,1.0,COVID-19,2ª Dose,2024-07-26,UBS-011,7.0,6.6,Sim,Sim
+PAC0560,48,Feminino,Caucaia,Urbana,Sem escolaridade,1.4,Febre Amarela,1ª Dose,2023-08-21,UBS-020,128.0,3.1,Não,Sim
+PAC0561,47,Feminino,Maracanaú,Urbana,Fundamental,1.3,COVID-19,1ª Dose,2024-09-08,UBS-010,10.0,,Não,Sim
+PAC0562,45,Masculino,Quixadá,Rural,Sem escolaridade,3.2,Hepatite B,3ª Dose,2024-11-23,UBS-029,30.0,17.6,Não,Sim
+PAC0563,52,Masculino,Crato,Rural,Médio,,COVID-19,2ª Dose,2024-09-14,UBS-016,52.0,22.0,Sim,Não
+PAC0564,66,Masculino,Fortaleza,Urbana,Fundamental,2.0,Hepatite B,Dose Única,2024-03-29,UBS-002,10.0,4.5,Não,Sim
+PAC0565,62,Masculino,Fortaleza,Urbana,Fundamental,5.2,Influenza,2ª Dose,2024-07-26,UBS-017,52.0,0.9,Não,Não
+PAC0566,18,Feminino,Fortaleza,Urbana,,3.9,Influenza,2ª Dose,2023-05-03,UBS-022,12.0,4.4,Não,Sim
+PAC0567,18,Masculino,Maracanaú,Periurbana,,4.4,COVID-19,2ª Dose,2023-10-17,UBS-030,79.0,11.6,Não,Sim
+PAC0568,61,Masculino,Itapipoca,Urbana,Fundamental,1.6,Hepatite B,1ª Dose,2023-05-11,UBS-020,11.0,6.2,Não,Sim
+PAC0569,20,Feminino,Quixadá,Rural,Médio,,Tétano,2ª Dose,2023-02-11,UBS-010,66.0,6.9,Não,Não
+PAC0570,40,Masculino,Fortaleza,Urbana,Fundamental,1.8,Febre Amarela,Reforço,2023-12-17,UBS-013,6.0,0.9,Não,Sim
+PAC0571,23,Feminino,Maracanaú,Periurbana,Sem escolaridade,1.1,COVID-19,Reforço,2024-11-12,UBS-012,29.0,1.1,Não,Sim
+PAC0572,18,Feminino,Maracanaú,Urbana,Sem escolaridade,0.8,Influenza,2ª Dose,2024-03-07,UBS-015,20.0,,Não,Não
+PAC0573,54,Masculino,Crato,Urbana,Superior,3.9,Tétano,3ª Dose,2023-12-02,UBS-007,17.0,12.2,Não,Não
+PAC0574,58,Feminino,Maracanaú,Urbana,Médio,1.4,Influenza,Dose Única,2023-02-13,UBS-027,10.0,4.2,Não,Sim
+PAC0575,34,Feminino,Crato,Rural,Médio,1.5,Hepatite B,2ª Dose,2023-09-26,UBS-022,29.0,8.3,Não,Sim
+PAC0576,18,Feminino,Crato,Rural,Superior,1.9,Tétano,1ª Dose,2023-03-29,UBS-021,9.0,1.1,Não,Sim
+PAC0577,35,Masculino,Fortaleza,Periurbana,Superior,5.1,Febre Amarela,1ª Dose,2024-06-08,UBS-026,21.0,13.6,Não,Sim
+PAC0578,52,Feminino,Maranguape,Urbana,Médio,2.1,Influenza,2ª Dose,2024-02-03,UBS-028,10.0,9.1,Não,Sim
+PAC0579,18,Feminino,Fortaleza,Urbana,Médio,3.6,Influenza,Reforço,2024-02-29,UBS-013,67.0,1.8,,Não
+PAC0580,48,Masculino,Crato,Urbana,Fundamental,1.9,COVID-19,Dose Única,2023-01-12,UBS-012,5.0,10.9,Sim,Não
+PAC0581,44,Masculino,Juazeiro do Norte,Rural,Fundamental,,Hepatite B,1ª Dose,2023-12-28,UBS-012,9.0,2.0,Não,Sim
+PAC0582,55,Feminino,Maracanaú,Urbana,Médio,1.2,COVID-19,1ª Dose,2023-12-29,UBS-028,10.0,1.6,Não,Sim
+PAC0583,47,Feminino,Iguatu,Urbana,Médio,2.2,COVID-19,Dose Única,2024-01-04,UBS-002,15.0,2.0,Não,Não
+PAC0584,27,Masculino,Iguatu,Rural,Superior,2.3,Influenza,Dose Única,2024-01-24,UBS-005,10.0,12.5,Não,Sim
+PAC0585,66,Feminino,Maranguape,Rural,Médio,2.9,COVID-19,3ª Dose,2024-12-08,UBS-025,18.0,12.9,Não,Não
+PAC0586,42,Masculino,Maracanaú,Urbana,Médio,2.9,Hepatite B,3ª Dose,2023-08-18,UBS-025,46.0,2.5,Não,Sim
+PAC0587,44,Masculino,Itapipoca,Rural,Médio,3.5,Hepatite B,1ª Dose,2023-02-19,UBS-002,29.0,,Não,Sim
+PAC0588,28,Masculino,Maracanaú,Urbana,Fundamental,1.5,Influenza,Dose Única,2024-06-14,UBS-023,22.0,6.1,Não,Não
+PAC0589,37,Masculino,Iguatu,Urbana,Médio,5.5,Influenza,Dose Única,2023-04-27,UBS-026,6.0,8.7,Não,Sim
+PAC0590,29,Masculino,Juazeiro do Norte,Urbana,Médio,5.8,Tétano,1ª Dose,2024-03-23,UBS-030,28.0,,Não,Sim
+PAC0591,41,Masculino,Quixadá,Urbana,Médio,1.7,COVID-19,Dose Única,2024-10-10,UBS-020,8.0,4.1,Não,Não
+PAC0592,75,Feminino,Quixadá,Urbana,Médio,1.5,Febre Amarela,1ª Dose,2024-06-07,UBS-013,35.0,,Não,Não
+PAC0593,20,Masculino,Itapipoca,Urbana,Fundamental,0.9,Tétano,1ª Dose,2023-04-16,UBS-029,10.0,0.6,Não,Não
+PAC0594,18,Masculino,Caucaia,Urbana,Médio,2.4,Gripe,1ª Dose,2024-02-20,UBS-003,15.0,2.9,Não,Sim
+PAC0595,71,Feminino,Fortaleza,Periurbana,Médio,2.8,Influenza,1ª Dose,2024-03-10,UBS-011,13.0,6.5,Sim,Sim
+PAC0596,41,Masculino,Maranguape,Rural,Médio,1.7,Tétano,2ª Dose,2024-12-25,UBS-016,44.0,2.0,Não,Não
+PAC0597,32,Feminino,Fortaleza,Periurbana,Médio,2.6,COVID-19,2ª Dose,2023-10-08,UBS-001,7.0,16.3,Não,Não
+PAC0598,63,Masculino,Maranguape,Rural,,1.1,influenza,2ª Dose,2023-07-15,UBS-019,21.0,0.7,Não,Não
+PAC0599,34,Masculino,Maracanaú,Urbana,Fundamental,3.6,Influenza,2ª Dose,2024-11-04,UBS-011,8.0,16.4,Não,Não
+PAC0600,149,Masculino,Juazeiro do Norte,Rural,Fundamental,,COVID-19,1ª Dose,2023-11-28,UBS-009,29.0,1.7,Não,Sim
+PAC0601,57,Masculino,Iguatu,Urbana,Médio,2.6,Febre Amarela,1ª Dose,2024-05-25,UBS-014,52.0,0.8,Não,Não
+PAC0602,36,Masculino,Sobral,Urbana,Médio,2.5,Febre Amarela,3ª Dose,2024-01-13,UBS-009,16.0,2.2,Não,Não
+PAC0603,83,Masculino,Sobral,Urbana,Superior,0.8,Febre Amarela,2ª Dose,2024-09-23,UBS-007,18.0,8.2,Não,Não
+PAC0604,34,Masculino,Maracanaú,Urbana,Fundamental,3.4,COVID-19,1ª Dose,2023-09-13,UBS-016,57.0,7.5,Não,Sim
+PAC0605,58,Masculino,Juazeiro do Norte,Urbana,Sem escolaridade,1.5,COVID-19,Reforço,2023-03-21,UBS-003,19.0,1.7,Não,Não
+PAC0606,50,Masculino,Itapipoca,Urbana,Médio,2.5,Hepatite B,Dose Única,2023-12-19,UBS-029,18.0,1.6,Não,Sim
+PAC0607,68,Masculino,Caucaia,Urbana,Médio,1.1,COVID-19,Reforço,2023-10-24,UBS-019,22.0,5.6,Não,Sim
+PAC0608,73,Masculino,Quixadá,Urbana,Médio,1.8,Hepatite B,2ª Dose,2024-04-19,UBS-004,28.0,3.6,Não,Não
+PAC0609,45,Feminino,Iguatu,Rural,Superior,2.7,Influenza,1ª Dose,2023-02-06,UBS-007,7.0,8.4,,Não
+PAC0610,31,Feminino,Caucaia,Urbana,Superior,1.3,Hepatite B,Dose Única,2023-10-21,UBS-023,39.0,0.6,Não,Sim
+PAC0611,53,Masculino,Itapipoca,Rural,Fundamental,1.3,Influenza,1ª Dose,2024-02-15,UBS-028,16.0,5.2,Não,Não
+PAC0612,32,Feminino,Sobral,Rural,Superior,2.4,Influenza,2ª Dose,2023-12-14,UBS-012,6.0,7.1,Não,Sim
+PAC0613,81,Feminino,Caucaia,Periurbana,Fundamental,2.0,COVID-19,1ª Dose,2023-03-04,UBS-030,35.0,25.6,Não,Sim
+PAC0614,47,Masculino,Quixadá,Rural,Médio,2.7,COVID-19,Dose Única,2023-02-18,UBS-018,14.0,6.2,Não,Sim
+PAC0615,38,Feminino,Fortaleza,Urbana,Médio,1.9,Influenza,1ª Dose,2024-03-10,UBS-028,7.0,,Não,Não
+PAC0616,48,Feminino,Caucaia,Urbana,Médio,3.1,Hepatite B,Reforço,2024-12-15,UBS-005,25.0,1.1,Não,Sim
+PAC0617,20,Masculino,Maracanaú,Periurbana,Fundamental,1.7,Febre Amarela,Reforço,2023-01-30,UBS-023,47.0,5.6,Não,Sim
+PAC0618,27,Masculino,Maracanaú,Urbana,Fundamental,3.0,Febre Amarela,2ª Dose,2024-06-17,UBS-023,48.0,4.2,,Não
+PAC0619,66,Feminino,Sobral,Rural,Médio,1.4,Tétano,Dose Única,2023-02-10,UBS-022,68.0,12.0,Não,Sim
+PAC0620,33,Feminino,Itapipoca,Urbana,Fundamental,1.6,COVID-19,3ª Dose,2024-06-22,UBS-026,,7.0,Não,Não
+PAC0621,26,Masculino,Sobral,Urbana,Sem escolaridade,3.2,COVID-19,Dose Única,2023-05-23,UBS-010,5.0,4.1,Não,Não
+PAC0622,-4,Masculino,Sobral,Rural,Médio,1.7,COVID-19,2ª Dose,2024-07-08,UBS-012,14.0,3.1,Não,Não
+PAC0623,66,Masculino,Fortaleza,Urbana,Médio,1.2,Hepatite B,Dose Única,2024-05-09,UBS-008,39.0,3.1,Não,Sim
+PAC0624,57,Feminino,Juazeiro do Norte,Urbana,Médio,5.3,Influenza,2ª Dose,2023-02-14,UBS-019,14.0,1.8,Não,Sim
+PAC0625,62,Feminino,Fortaleza,Urbana,Fundamental,2.2,Febre Amarela,Reforço,2023-07-11,UBS-015,23.0,0.6,Não,Não
+PAC0626,31,Masculino,Caucaia,Urbana,Superior,2.8,Influenza,2ª Dose,2023-03-23,UBS-001,23.0,4.8,Não,Sim
+PAC0627,19,Masculino,Maracanaú,Urbana,Fundamental,0.7,Tétano,2ª Dose,2024-07-12,UBS-003,14.0,1.7,Não,Sim
+PAC0628,72,Feminino,Fortaleza,Urbana,Superior,4.3,Tétano,Dose Única,2024-06-02,UBS-027,51.0,,Não,Sim
+PAC0629,39,Masculino,Caucaia,Urbana,Médio,8.4,COVID 19,Dose Única,2023-05-10,UBS-018,18.0,1.2,Não,Sim
+PAC0630,40,Masculino,Fortaleza,Urbana,Médio,4.1,Influenza,3ª Dose,2024-11-23,UBS-018,17.0,1.6,Não,Não
+PAC0631,68,Feminino,Quixadá,Rural,Superior,4.4,Hepatite B,1ª Dose,2023-01-19,UBS-030,124.0,0.7,Não,Não
+PAC0632,55,Feminino,Quixadá,Rural,Fundamental,,COVID-19,2ª Dose,2023-10-26,UBS-030,18.0,6.1,Não,Sim
+PAC0633,53,Feminino,Sobral,Rural,Fundamental,2.5,Influenza,Reforço,2024-07-07,UBS-002,8.0,3.1,Sim,Sim
+PAC0634,83,Feminino,Iguatu,Rural,Médio,2.8,Hepatite B,Dose Única,2024-01-23,UBS-005,,4.6,Não,Não
+PAC0635,33,Masculino,Itapipoca,Rural,Fundamental,1.6,COVID-19,Dose Única,2024-07-21,UBS-029,38.0,5.6,Não,Sim
+PAC0636,61,Masculino,Sobral,Urbana,,2.1,Hepatite B,1ª Dose,2023-08-19,UBS-001,34.0,18.5,Não,Não
+PAC0637,46,Feminino,Fortaleza,Periurbana,Fundamental,1.3,Hepatite B,2ª Dose,2024-01-24,UBS-010,36.0,0.9,Não,Sim
+PAC0638,49,Masculino,Itapipoca,Rural,Superior,1.8,COVID-19,3ª Dose,2023-03-18,UBS-020,29.0,3.2,Não,Não
+PAC0639,72,Masculino,Crato,Urbana,Médio,3.4,Influenza,Dose Única,2024-06-30,UBS-030,10.0,,Não,Não
+PAC0640,54,Masculino,Sobral,Urbana,Sem escolaridade,0.9,COVID-19,1ª Dose,2024-08-20,UBS-010,514.0,3.7,Sim,Sim
+PAC0641,54,Masculino,Itapipoca,Rural,Superior,3.6,Hepatite B,Reforço,2023-12-05,UBS-005,49.0,13.2,Não,Sim
+PAC0642,64,Masculino,Maracanaú,Urbana,Fundamental,1.0,COVID-19,2ª Dose,2023-06-29,UBS-018,9.0,6.9,Não,Sim
+PAC0643,38,Masculino,Crato,Urbana,Fundamental,2.3,Febre Amarela,1ª Dose,2023-02-28,UBS-021,7.0,5.9,Não,Não
+PAC0644,29,Masculino,Quixadá,Urbana,Médio,2.4,Influenza,2ª Dose,2024-04-28,UBS-026,79.0,3.4,Não,Sim
+PAC0645,26,Masculino,Juazeiro do Norte,Urbana,Médio,,COVID-19,1ª Dose,2024-10-25,UBS-015,45.0,6.1,Não,Sim
+PAC0646,18,Feminino,Crato,Urbana,Médio,2.0,Influenza,2ª Dose,2023-10-16,UBS-020,49.0,0.7,Não,Sim
+PAC0647,82,Feminino,Maracanaú,Urbana,Médio,,Influenza,1ª Dose,2024-01-16,UBS-008,48.0,4.9,Não,Não
+PAC0648,25,Feminino,Crato,Rural,Fundamental,2.4,Influenza,1ª Dose,2024-08-30,UBS-017,20.0,4.5,Não,Não
+PAC0649,41,Feminino,Itapipoca,Urbana,Superior,6.6,Influenza,Dose Única,2024-06-21,UBS-012,25.0,2.6,Não,Sim
+PAC0650,40,Feminino,Fortaleza,Periurbana,Médio,,Influenza,1ª Dose,2024-11-06,UBS-021,20.0,,Não,Sim
+PAC0651,50,Masculino,Sobral,Urbana,Fundamental,1.4,COVID-19,1ª Dose,2023-07-12,UBS-030,6.0,8.7,Não,Sim
+PAC0652,59,Feminino,Fortaleza,Urbana,Médio,,COVID-19,2ª Dose,2024-04-27,UBS-030,32.0,0.8,Não,Sim
+PAC0653,60,Feminino,Crato,Rural,Médio,2.4,Hepatite B,2ª Dose,2024-07-30,UBS-027,19.0,0.9,Sim,Sim
+PAC0654,34,Feminino,Juazeiro do Norte,Rural,Fundamental,1.9,Influenza,Dose Única,2023-07-19,UBS-012,25.0,3.4,Não,Sim
+PAC0655,41,Masculino,Itapipoca,Rural,Fundamental,1.8,Influenza,2ª Dose,2024-05-30,UBS-026,18.0,,Não,Não
+PAC0656,50,Masculino,Fortaleza,Urbana,Sem escolaridade,4.3,Febre Amarela,Dose Única,2024-11-20,UBS-001,18.0,7.3,Não,Sim
+PAC0657,40,Masculino,Sobral,Urbana,Superior,2.9,Influenza,3ª Dose,2023-05-05,UBS-026,8.0,5.5,Não,Não
+PAC0658,73,Masculino,Caucaia,Periurbana,Médio,2.1,Febre Amarela,1ª Dose,2023-07-12,UBS-026,11.0,,Não,Sim
+PAC0659,53,Feminino,Maranguape,Urbana,Fundamental,2.1,COVID-19,1ª Dose,2024-12-03,UBS-004,8.0,2.5,Não,Sim
+PAC0660,58,Feminino,Iguatu,Rural,Fundamental,2.4,COVID-19,2ª Dose,2024-08-22,UBS-008,9.0,7.2,Não,Sim
+PAC0661,56,Masculino,Quixadá,Urbana,Médio,2.9,Tétano,2ª Dose,2023-01-19,UBS-001,77.0,10.4,Não,Não
+PAC0662,66,Feminino,Maranguape,Urbana,Médio,4.2,Influenza,Dose Única,2023-12-08,UBS-027,8.0,2.6,Não,Sim
+PAC0663,48,Feminino,Itapipoca,Urbana,Médio,1.8,Febre Amarela,3ª Dose,2024-09-21,UBS-015,11.0,2.6,Não,Não
+PAC0664,21,Masculino,Fortaleza,Periurbana,Superior,,COVID-19,2ª Dose,2023-12-14,UBS-018,22.0,,Não,Sim
+PAC0665,52,Masculino,Caucaia,Urbana,Médio,1.7,Hepatite B,1ª Dose,2023-09-17,UBS-001,23.0,0.8,Sim,Sim
+PAC0666,33,Masculino,Juazeiro do Norte,Rural,Médio,1.4,febre amarela,1ª Dose,2023-01-19,UBS-011,536.0,2.7,Não,Não
+PAC0667,35,Masculino,Itapipoca,Rural,Fundamental,1.0,COVID-19,3ª Dose,2023-01-25,UBS-023,36.0,1.1,Não,Sim
+PAC0668,55,Masculino,Iguatu,Rural,Superior,4.5,Febre Amarela,2ª Dose,2023-07-12,UBS-002,35.0,0.6,Não,Sim
+PAC0669,67,Masculino,Fortaleza,Urbana,Fundamental,3.4,Influenza,2ª Dose,2023-04-11,UBS-001,10.0,1.1,Não,Sim
+PAC0670,45,Masculino,Iguatu,Urbana,Fundamental,0.7,Hepatite B,1ª Dose,2024-08-18,UBS-012,11.0,3.3,Não,Não
+PAC0671,50,Masculino,Crato,Rural,Médio,2.5,Influenza,Dose Única,2024-05-22,UBS-016,60.0,6.3,Não,Não
+PAC0672,75,Feminino,Sobral,Urbana,Sem escolaridade,1.8,Febre Amarela,Reforço,2024-09-30,UBS-022,39.0,2.2,Não,Sim
+PAC0673,49,Masculino,Fortaleza,Periurbana,Fundamental,1.7,COVID-19,1ª Dose,2024-07-04,UBS-022,28.0,10.0,Sim,Sim
+PAC0674,90,Feminino,Fortaleza,Urbana,Médio,0.6,COVID-19,2ª Dose,2024-02-17,UBS-010,6.0,3.4,Não,Não
+PAC0675,55,Masculino,Maracanaú,Urbana,Fundamental,2.2,Febre Amarela,Reforço,2023-12-03,UBS-018,15.0,17.7,Não,Não
+PAC0676,18,Feminino,Crato,Rural,Fundamental,2.3,Febre Amarela,2ª Dose,2023-05-03,UBS-015,21.0,15.9,Sim,Sim
+PAC0677,58,Masculino,Fortaleza,Periurbana,Médio,1.2,COVID-19,3ª Dose,2024-04-05,UBS-017,9.0,7.9,Sim,Não
+PAC0678,51,Masculino,Maracanaú,Urbana,,5.0,Influenza,1ª Dose,2024-04-22,UBS-030,16.0,14.0,Não,Sim
+PAC0679,68,Feminino,Maranguape,Urbana,Fundamental,3.3,Influenza,3ª Dose,2023-02-28,UBS-010,23.0,6.6,Sim,Sim
+PAC0680,57,Feminino,Maranguape,Urbana,Superior,1.3,Influenza,1ª Dose,2024-07-06,UBS-003,12.0,11.8,Não,Sim
+PAC0681,42,Feminino,Iguatu,Rural,Sem escolaridade,3.7,COVID-19,Reforço,2024-10-29,UBS-026,35.0,1.8,Não,Sim
+PAC0682,22,Masculino,Caucaia,Periurbana,Médio,1.8,Hepatite B,Dose Única,2024-09-22,UBS-030,41.0,2.6,Não,Sim
+PAC0683,41,Masculino,Caucaia,Urbana,Sem escolaridade,3.8,COVID-19,Dose Única,2024-09-27,UBS-021,12.0,7.5,Não,Não
+PAC0684,29,Feminino,Itapipoca,Rural,Médio,1.1,Febre Amarela,Dose Única,2023-10-24,UBS-016,41.0,3.3,Não,Sim
+PAC0685,34,Feminino,Juazeiro do Norte,Urbana,Fundamental,2.4,Febre Amarela,3ª Dose,2024-02-23,UBS-006,7.0,9.6,Não,Sim
+PAC0686,55,Feminino,Fortaleza,Urbana,Fundamental,1.2,INFLUENZA,2ª Dose,2023-02-02,UBS-003,41.0,11.0,Não,Sim
+PAC0687,75,Feminino,Caucaia,Urbana,Fundamental,1.5,COVID-19,Reforço,2024-03-12,UBS-009,8.0,2.3,Não,Não
+PAC0688,52,Masculino,Juazeiro do Norte,Urbana,Médio,0.8,COVID-19,Reforço,2024-03-21,UBS-011,6.0,9.2,Não,Não
+PAC0689,23,Feminino,Caucaia,Urbana,Médio,1.2,Influenza,2ª Dose,2024-08-11,UBS-021,25.0,1.3,Não,Sim
+PAC0690,53,Masculino,Caucaia,Urbana,Fundamental,1.2,Hepatite B,Reforço,2024-10-26,UBS-013,17.0,2.5,Não,Sim
+PAC0691,66,Masculino,Caucaia,Urbana,,1.1,Influenza,3ª Dose,2023-02-07,UBS-018,52.0,4.1,Não,Sim
+PAC0692,34,Masculino,Fortaleza,Urbana,Fundamental,2.4,Hepatite B,2ª Dose,2024-12-19,UBS-026,14.0,1.8,Não,Sim
+PAC0693,42,Feminino,Sobral,Rural,Médio,0.9,Influenza,2ª Dose,2024-05-28,UBS-022,11.0,4.8,Não,Sim
+PAC0694,45,Masculino,Sobral,Urbana,Fundamental,2.6,COVID-19,1ª Dose,2024-12-01,UBS-028,18.0,4.8,Não,Sim
+PAC0695,30,Masculino,Crato,Urbana,Médio,3.7,COVID-19,1ª Dose,2023-12-14,UBS-024,17.0,1.7,Não,Não
+PAC0696,151,Feminino,Fortaleza,Urbana,Médio,1.4,COVID-19,1ª Dose,2024-03-07,UBS-027,13.0,8.4,Não,Sim
+PAC0697,42,Masculino,Caucaia,Periurbana,Médio,2.1,COVID-19,2ª Dose,2023-01-11,UBS-022,28.0,5.5,Não,Sim
+PAC0698,52,Feminino,Sobral,Rural,Fundamental,1.9,Influenza,2ª Dose,2023-09-20,UBS-004,,2.4,Não,Sim
+PAC0699,29,Masculino,Sobral,Rural,Fundamental,1.8,Febre Amarela,2ª Dose,2023-12-22,UBS-022,43.0,1.8,Sim,Sim
+PAC0700,37,Feminino,Maracanaú,Urbana,Médio,,Febre Amarela,Reforço,2024-09-03,UBS-024,77.0,11.0,Não,Sim
+PAC0701,58,Feminino,Caucaia,Periurbana,Fundamental,1.3,COVID-19,2ª Dose,2024-05-30,UBS-008,11.0,9.5,Não,Sim
+PAC0702,38,Masculino,Iguatu,Urbana,Fundamental,4.6,COVID-19,2ª Dose,2024-01-02,UBS-013,30.0,1.8,Não,Não
+PAC0703,76,Masculino,Caucaia,Periurbana,,2.6,COVID-19,1ª Dose,2023-04-13,UBS-010,15.0,0.7,Não,Sim
+PAC0704,37,Masculino,Juazeiro do Norte,Urbana,Fundamental,2.0,COVID-19,1ª Dose,2024-03-28,UBS-002,27.0,8.7,Não,Sim
+PAC0705,148,Masculino,Crato,Rural,Fundamental,0.8,Influenza,Dose Única,2024-08-17,UBS-008,17.0,5.3,Não,Sim
+PAC0706,61,Feminino,Maracanaú,Urbana,Superior,3.0,INFLUENZA,3ª Dose,2024-07-21,UBS-006,106.0,1.0,Não,Não
+PAC0707,19,Masculino,Caucaia,Urbana,Médio,1.4,COVID-19,Dose Única,2023-11-22,UBS-016,31.0,4.9,Não,Sim
+PAC0708,18,Feminino,Juazeiro do Norte,Rural,Médio,1.2,COVID-19,1ª Dose,2023-07-31,UBS-018,65.0,3.5,Não,Não
+PAC0709,18,Masculino,Maranguape,Rural,Fundamental,1.3,COVID-19,3ª Dose,2023-06-01,UBS-017,41.0,7.9,Não,Sim
+PAC0710,67,Feminino,Caucaia,Urbana,Médio,2.9,COVID-19,1ª Dose,2023-12-13,UBS-006,51.0,1.7,Não,Sim
+PAC0711,35,Feminino,Fortaleza,Urbana,Médio,2.1,Hepatite B,1ª Dose,2023-10-29,UBS-013,38.0,,Não,Não
+PAC0712,90,Feminino,Caucaia,Periurbana,Médio,3.4,COVID-19,1ª Dose,2024-05-08,UBS-023,17.0,1.3,Não,Sim
+PAC0713,34,Masculino,Maranguape,Rural,Sem escolaridade,3.9,Influenza,1ª Dose,2023-11-08,UBS-014,10.0,16.3,Não,Sim
+PAC0714,48,Masculino,Fortaleza,Urbana,Superior,1.5,Influenza,2ª Dose,2024-09-15,UBS-030,14.0,8.0,Não,Sim
+PAC0715,72,Masculino,Quixadá,Rural,Médio,2.2,Febre Amarela,1ª Dose,2023-09-28,UBS-026,5.0,7.2,Não,Não
+PAC0716,81,Feminino,Maracanaú,Urbana,Superior,1.9,Febre Amarela,Reforço,2024-08-30,UBS-021,19.0,,Não,Sim
+PAC0717,82,Feminino,Quixadá,Rural,Sem escolaridade,1.1,Hepatite B,2ª Dose,2024-04-29,UBS-030,19.0,3.3,Não,Sim
+PAC0718,66,Feminino,Quixadá,Rural,Fundamental,1.2,COVID-19,1ª Dose,2024-12-06,UBS-010,19.0,13.3,Não,Sim
+PAC0719,63,Masculino,Juazeiro do Norte,Rural,Fundamental,2.1,Influenza,1ª Dose,2023-07-31,UBS-024,78.0,0.9,Não,Sim
+PAC0720,55,Feminino,Fortaleza,Urbana,Médio,2.2,Febre Amarela,3ª Dose,2023-11-11,UBS-011,53.0,8.6,Sim,Sim
+PAC0721,59,Feminino,Fortaleza,Urbana,Fundamental,2.2,COVID-19,1ª Dose,2023-07-15,UBS-013,8.0,1.7,Sim,Sim
+PAC0722,35,Masculino,Fortaleza,Urbana,Superior,2.2,Influenza,Reforço,2023-04-20,UBS-012,14.0,2.5,Não,Sim
+PAC0723,30,Masculino,Crato,Rural,Superior,1.5,Febre Amarela,Reforço,2024-06-08,UBS-009,16.0,4.2,Não,Sim
+PAC0724,44,Feminino,Caucaia,Urbana,Médio,6.4,Influenza,1ª Dose,2023-07-05,UBS-004,13.0,8.1,Não,Sim
+PAC0725,41,Feminino,Caucaia,Urbana,Médio,2.5,COVID-19,2ª Dose,2023-09-15,UBS-007,37.0,9.6,Não,Sim
+PAC0726,36,Feminino,Juazeiro do Norte,Rural,,1.7,COVID-19,1ª Dose,2023-10-02,UBS-024,19.0,4.9,Não,Não
+PAC0727,57,Masculino,Iguatu,Rural,Médio,2.7,Influenza,3ª Dose,2024-04-21,UBS-029,383.0,3.1,Não,Não
+PAC0728,62,Feminino,Fortaleza,Urbana,Médio,1.5,Covid-19,2ª Dose,2024-09-16,UBS-022,43.0,15.1,Não,Não
+PAC0729,46,Masculino,Fortaleza,Urbana,,2.3,Hepatite B,1ª Dose,2023-09-18,UBS-002,37.0,1.9,Não,Sim
+PAC0730,71,Masculino,Fortaleza,Urbana,Superior,2.7,Hepatite B,1ª Dose,2024-03-19,UBS-007,7.0,8.6,Não,Não
+PAC0731,24,Masculino,Iguatu,Rural,Fundamental,2.9,COVID-19,Dose Única,2024-11-17,UBS-029,30.0,5.2,Não,Não
+PAC0732,41,Feminino,Sobral,Rural,Superior,1.2,Febre Amarela,2ª Dose,2023-09-27,UBS-009,16.0,2.9,Não,Sim
+PAC0733,32,Feminino,Caucaia,Urbana,Sem escolaridade,10.1,Influenza,1ª Dose,2023-06-15,UBS-005,11.0,0.5,Não,Sim
+PAC0734,18,Feminino,Fortaleza,Urbana,Fundamental,4.0,COVID-19,Dose Única,2024-05-29,UBS-015,6.0,3.5,Sim,Sim
+PAC0735,43,Masculino,Caucaia,Urbana,,6.1,Febre Amarela,3ª Dose,2023-08-09,UBS-018,18.0,2.1,Não,Não
+PAC0736,42,Feminino,Fortaleza,Urbana,Fundamental,2.0,Febre Amarela,Reforço,2024-08-25,UBS-004,13.0,1.1,,Sim
+PAC0737,72,Masculino,Quixadá,Rural,Superior,2.5,Hepatite B,1ª Dose,2023-10-11,UBS-019,10.0,0.9,Não,Sim
+PAC0738,56,Feminino,Itapipoca,Rural,Superior,2.3,Febre Amarela,Dose Única,2023-10-02,UBS-020,28.0,2.6,Não,Sim
+PAC0739,26,Masculino,Juazeiro do Norte,Rural,Médio,1.7,Hepatite B,Dose Única,2024-12-11,UBS-026,34.0,5.3,Não,Não
+PAC0740,78,Masculino,Iguatu,Rural,Superior,3.3,Febre Amarela,1ª Dose,2023-03-27,UBS-007,10.0,9.6,Não,Sim
+PAC0741,66,Masculino,Fortaleza,Urbana,Fundamental,1.4,Influenza,Dose Única,2023-01-03,UBS-026,6.0,1.5,Não,Não
+PAC0742,55,Masculino,Crato,Urbana,Fundamental,3.2,Hepatite B,2ª Dose,2023-11-20,UBS-008,42.0,3.3,Não,Não
+PAC0743,40,Feminino,Maranguape,Rural,Médio,1.7,Tétano,Reforço,2023-09-14,UBS-017,5.0,3.0,Não,Sim
+PAC0744,27,Feminino,Caucaia,Urbana,Superior,2.7,Hepatite B,1ª Dose,2024-07-04,UBS-013,60.0,4.1,Não,Sim
+PAC0745,38,Masculino,Itapipoca,Urbana,Sem escolaridade,4.6,COVID-19,3ª Dose,2024-01-24,UBS-024,24.0,8.8,Não,Sim
+PAC0746,64,Feminino,Caucaia,Urbana,Superior,,Influenza,2ª Dose,2024-04-29,UBS-021,12.0,4.5,Não,Não
+PAC0747,78,Masculino,Caucaia,Periurbana,Médio,3.3,Influenza,Reforço,2024-04-11,UBS-028,10.0,9.9,Não,Não
+PAC0748,72,Feminino,Fortaleza,Periurbana,Superior,1.7,COVID-19,2ª Dose,2023-03-31,UBS-023,5.0,4.2,Não,Não
+PAC0749,36,Feminino,Juazeiro do Norte,Urbana,Fundamental,1.2,Tétano,Reforço,2024-04-25,UBS-011,10.0,5.1,,Sim
+PAC0750,24,Feminino,Itapipoca,Rural,Médio,5.1,COVID-19,Reforço,2023-07-21,UBS-027,7.0,3.4,Não,Sim
+PAC0751,47,Masculino,Quixadá,Rural,Médio,,COVID-19,1ª Dose,2024-08-22,UBS-001,23.0,9.2,Não,Sim
+PAC0752,18,Feminino,Sobral,Rural,Médio,2.1,tetano,Dose Única,2023-10-15,UBS-002,8.0,13.4,,Sim
+PAC0753,50,Feminino,Iguatu,Rural,Fundamental,3.2,Influenza,Reforço,2024-04-29,UBS-017,20.0,5.6,Não,Não
+PAC0754,42,Masculino,Maranguape,Urbana,Superior,1.3,COVID-19,1ª Dose,2023-09-20,UBS-005,22.0,9.1,Não,Sim
+PAC0755,36,Masculino,Fortaleza,Urbana,Superior,2.8,Influenza,2ª Dose,2024-03-30,UBS-030,12.0,0.8,Não,Sim
+PAC0756,18,Feminino,Maracanaú,Urbana,Sem escolaridade,2.5,Hepatite B,2ª Dose,2023-12-08,UBS-030,5.0,12.3,Não,Sim
+PAC0757,54,Feminino,Fortaleza,Urbana,,3.1,COVID-19,1ª Dose,2024-12-20,UBS-006,5.0,1.5,Não,Sim
+PAC0758,35,Feminino,Crato,Urbana,Médio,5.1,TÉTANO,1ª Dose,2024-04-03,UBS-026,5.0,2.0,Não,Sim
+PAC0759,23,Feminino,Quixadá,Rural,Médio,4.6,Influenza,1ª Dose,2024-05-25,UBS-025,31.0,0.8,Não,Sim
+PAC0760,18,Feminino,Fortaleza,Urbana,Médio,1.1,Influenza,1ª Dose,2023-02-10,UBS-024,12.0,17.3,Não,Não
+PAC0761,44,Masculino,Itapipoca,Rural,Fundamental,0.8,Influenza,2ª Dose,2023-07-02,UBS-007,36.0,10.1,Sim,Sim
+PAC0762,76,Masculino,Sobral,Urbana,Médio,2.5,Hepatite-B,1ª Dose,2024-10-16,UBS-028,16.0,12.7,Não,Sim
+PAC0763,74,Masculino,Sobral,Rural,Médio,2.4,COVID-19,Reforço,2024-11-01,UBS-021,17.0,,Não,Sim
+PAC0764,36,Feminino,Juazeiro do Norte,Rural,Fundamental,1.3,COVID-19,Dose Única,2023-04-19,UBS-030,19.0,3.8,Não,Não
+PAC0765,34,Masculino,Caucaia,Urbana,Médio,1.4,influenza,1ª Dose,2023-11-26,UBS-015,29.0,,Não,Sim
+PAC0766,53,Feminino,Fortaleza,Periurbana,Fundamental,1.5,Febre Amarela,Dose Única,2023-04-28,UBS-019,11.0,17.9,Não,Não
+PAC0767,27,Feminino,Fortaleza,Urbana,Fundamental,4.3,COVID-19,Dose Única,2023-03-28,UBS-016,7.0,4.0,Não,Sim
+PAC0768,50,Feminino,Fortaleza,Urbana,Médio,1.8,Hepatite B,Reforço,2024-02-29,UBS-025,21.0,1.5,Sim,Sim
+PAC0769,58,Masculino,Sobral,Urbana,Superior,1.0,Febre Amarela,1ª Dose,2024-11-05,UBS-013,12.0,5.9,Não,Sim
+PAC0770,67,Feminino,Fortaleza,Urbana,Fundamental,2.2,COVID-19,1ª Dose,2023-09-13,UBS-005,,19.0,Não,Sim
+PAC0771,43,Masculino,Iguatu,Rural,Fundamental,2.2,COVID-19,Reforço,2023-03-13,UBS-003,25.0,10.8,Não,Não
+PAC0772,41,Feminino,Maracanaú,Periurbana,Fundamental,1.3,COVID-19,Reforço,2023-05-02,UBS-003,18.0,10.4,Não,Sim
+PAC0773,29,Masculino,Crato,Urbana,Fundamental,3.0,Influenza,Dose Única,2024-08-14,UBS-019,24.0,14.1,Não,Sim
+PAC0774,30,Masculino,Juazeiro do Norte,Urbana,Médio,,COVID-19,Dose Única,2024-04-28,UBS-014,20.0,11.7,Não,Sim
+PAC0775,40,Feminino,Maracanaú,Urbana,Médio,,Influenza,1ª Dose,2024-09-03,UBS-016,31.0,8.0,Não,Não
+PAC0776,51,Masculino,Quixadá,Urbana,Sem escolaridade,1.0,Influenza,2ª Dose,2024-12-13,UBS-022,29.0,6.8,Sim,Não
+PAC0777,61,Masculino,Fortaleza,Urbana,Superior,,Influenza,1ª Dose,2024-01-10,UBS-017,20.0,2.0,Não,Sim
+PAC0778,30,Feminino,Caucaia,Urbana,Sem escolaridade,2.6,COVID-19,1ª Dose,2024-04-29,UBS-027,27.0,5.4,Não,Sim
+PAC0779,71,Feminino,Itapipoca,Urbana,Superior,0.8,Influenza,Dose Única,2023-10-20,UBS-004,46.0,4.2,Não,Não
+PAC0780,40,Feminino,Fortaleza,Urbana,Superior,2.8,Febre Amarela,1ª Dose,2023-09-23,UBS-013,,10.4,Sim,Não
+PAC0781,44,Feminino,Fortaleza,Periurbana,Médio,1.8,Tétano,2ª Dose,2024-02-25,UBS-008,15.0,,Não,Sim
+PAC0782,31,Feminino,Caucaia,Periurbana,Fundamental,2.3,Febre Amarela,Reforço,2023-08-26,UBS-019,33.0,1.2,Não,Sim
+PAC0783,18,Masculino,Fortaleza,Urbana,,,Influenza,1ª Dose,2024-02-28,UBS-005,22.0,0.5,Não,Não
+PAC0784,60,Masculino,Sobral,Rural,Médio,1.5,Influenza,Reforço,2024-04-06,UBS-002,6.0,6.2,Não,Sim
+PAC0785,58,Masculino,Fortaleza,Periurbana,Superior,2.1,COVID-19,Reforço,2024-03-29,UBS-015,49.0,4.5,Não,Sim
+PAC0786,39,Feminino,Iguatu,Urbana,Médio,1.7,Covid-19,3ª Dose,2024-08-27,UBS-002,5.0,2.5,Não,Não
+PAC0787,46,Feminino,Itapipoca,Rural,Médio,1.9,COVID-19,1ª Dose,2023-06-29,UBS-011,32.0,1.4,Não,Sim
+PAC0788,54,Masculino,Crato,Rural,Superior,1.4,Hepatite B,2ª Dose,2023-11-13,UBS-013,33.0,3.6,Sim,Não
+PAC0789,18,Masculino,Sobral,Urbana,,,Covid-19,2ª Dose,2023-03-09,UBS-023,66.0,1.0,Não,Sim
+PAC0790,35,Feminino,Iguatu,Urbana,,4.1,COVID-19,2ª Dose,2023-07-15,UBS-010,6.0,2.5,Sim,Não
+PAC0791,59,Masculino,Fortaleza,Periurbana,Superior,1.4,Tétano,1ª Dose,2024-03-24,UBS-003,23.0,2.9,Não,Sim
+PAC0792,22,Feminino,Iguatu,Rural,Médio,2.1,COVID-19,Reforço,2024-11-19,UBS-005,16.0,3.6,Não,Não
+PAC0793,50,Feminino,Itapipoca,Rural,Médio,1.3,COVID-19,1ª Dose,2024-12-03,UBS-003,13.0,3.6,Não,Sim
+PAC0794,20,Feminino,Itapipoca,Urbana,,2.7,COVID-19,Dose Única,2024-03-31,UBS-006,6.0,2.0,Não,Sim
+PAC0795,53,Masculino,Maracanaú,Urbana,Médio,2.5,Influenza,1ª Dose,2023-08-22,UBS-013,21.0,10.0,Não,Sim
+PAC0796,44,Feminino,Fortaleza,Urbana,,1.7,Hepatite B,3ª Dose,2024-11-04,UBS-010,18.0,2.7,Não,Não
+PAC0797,18,Feminino,Juazeiro do Norte,Urbana,Médio,2.1,Influenza,Reforço,2024-08-18,UBS-019,7.0,1.8,Não,Sim
+PAC0798,65,Feminino,Maranguape,Rural,Médio,3.4,Influenza,1ª Dose,2024-09-16,UBS-008,23.0,1.5,Não,Sim
+PAC0799,31,Feminino,Fortaleza,Periurbana,Fundamental,1.0,Febre Amarela,1ª Dose,2023-02-14,UBS-018,31.0,2.4,Não,Sim
+PAC0800,30,Feminino,Itapipoca,Rural,Fundamental,1.2,Febre Amarela,Dose Única,2023-08-07,UBS-003,34.0,0.8,Não,Sim
+PAC0801,48,Feminino,Fortaleza,Urbana,Médio,3.0,Tétano,Dose Única,2023-10-21,UBS-024,52.0,0.7,Não,Sim
+PAC0802,65,Masculino,Fortaleza,Urbana,,2.3,Febre Amarela,Dose Única,2024-11-28,UBS-024,15.0,5.1,Não,Não
+PAC0803,26,Feminino,Fortaleza,Urbana,Fundamental,2.1,Influenza,2ª Dose,2024-04-17,UBS-017,66.0,5.3,Não,Sim
+PAC0804,46,Feminino,Fortaleza,Urbana,Superior,,COVID-19,1ª Dose,2024-02-18,UBS-008,45.0,,Não,Sim
+PAC0805,52,Masculino,Maracanaú,Urbana,,3.2,COVID-19,Reforço,2024-03-28,UBS-010,12.0,7.7,Não,Não
+PAC0806,57,Feminino,Fortaleza,Urbana,Médio,5.2,COVID-19,Reforço,2023-08-09,UBS-002,8.0,0.7,Não,Não
+PAC0807,48,Feminino,Quixadá,Rural,Fundamental,3.5,Hepatite B,2ª Dose,2024-07-15,UBS-012,16.0,14.2,Não,Não
+PAC0808,38,Feminino,Sobral,Rural,Superior,2.9,Febre Amarela,Dose Única,2023-07-04,UBS-023,15.0,1.0,Sim,Sim
+PAC0809,30,Masculino,Fortaleza,Periurbana,Superior,2.2,Influenza,2ª Dose,2024-06-19,UBS-006,22.0,6.1,Não,Sim
+PAC0810,46,Masculino,Crato,Urbana,Fundamental,2.1,COVID-19,2ª Dose,2023-12-15,UBS-002,22.0,1.2,Não,Sim
+PAC0811,25,Feminino,Iguatu,Urbana,Fundamental,2.2,Influenza,1ª Dose,2023-09-26,UBS-021,32.0,11.1,Não,Sim
+PAC0812,18,Feminino,Itapipoca,Urbana,Médio,2.5,Tétano,2ª Dose,2024-05-10,UBS-023,19.0,4.1,Não,Não
+PAC0813,52,Masculino,Fortaleza,Periurbana,Médio,1.2,Influenza,2ª Dose,2024-11-17,UBS-024,7.0,0.9,Não,Sim
+PAC0814,61,Feminino,Iguatu,Rural,Fundamental,2.5,Febre amarela,1ª Dose,2023-04-27,UBS-003,44.0,5.3,Não,Sim
+PAC0815,18,Feminino,Maranguape,Rural,Médio,2.0,Febre Amarela,2ª Dose,2024-12-02,UBS-017,12.0,0.5,Não,Não
+PAC0816,26,Feminino,Fortaleza,Periurbana,Médio,2.7,Tétano,Dose Única,2023-05-01,UBS-029,,8.0,Não,Sim
+PAC0817,56,Feminino,Fortaleza,Periurbana,Superior,1.7,Febre Amarela,Dose Única,2023-05-30,UBS-007,7.0,5.8,Não,Não
+PAC0818,82,Masculino,Maracanaú,Urbana,Médio,1.6,Hepatite B,3ª Dose,2023-07-14,UBS-029,68.0,1.7,Não,Sim
+PAC0819,45,Masculino,Fortaleza,Urbana,Médio,2.5,COVID-19,Reforço,2023-04-11,UBS-021,6.0,2.8,Não,Sim
+PAC0820,31,Masculino,Maranguape,Urbana,Superior,2.8,COVID-19,1ª Dose,2023-09-26,UBS-005,10.0,0.5,Não,Sim
+PAC0821,41,Feminino,Caucaia,Urbana,Fundamental,1.6,Gripe,3ª Dose,2023-11-19,UBS-023,5.0,6.4,Não,Sim
+PAC0822,69,Masculino,Iguatu,Rural,Fundamental,4.3,COVID-19,Dose Única,2024-09-18,UBS-001,29.0,2.4,Não,Sim
+PAC0823,33,Masculino,Maracanaú,Urbana,Médio,4.3,Tétano,2ª Dose,2024-07-08,UBS-008,42.0,4.7,Sim,Sim
+PAC0824,30,Masculino,Fortaleza,Periurbana,Fundamental,1.0,COVID-19,2ª Dose,2024-02-18,UBS-012,16.0,16.2,Não,Sim
+PAC0825,36,Feminino,Fortaleza,Urbana,Superior,1.5,febre amarela,1ª Dose,2024-10-30,UBS-014,57.0,2.3,Não,Sim
+PAC0826,27,Feminino,Sobral,Urbana,Fundamental,2.4,Influenza,Reforço,2024-06-10,UBS-016,22.0,23.6,Sim,Sim
+PAC0827,47,Masculino,Itapipoca,Urbana,Fundamental,2.7,COVID-19,2ª Dose,2023-01-12,UBS-010,24.0,5.5,Não,Sim
+PAC0828,74,Masculino,Itapipoca,Rural,Superior,6.5,TÉTANO,Reforço,2023-02-18,UBS-015,42.0,1.9,Não,Sim
+PAC0829,50,Feminino,Caucaia,Urbana,Médio,2.4,Influenza,3ª Dose,2023-04-07,UBS-021,12.0,3.4,Não,Sim
+PAC0830,40,Masculino,Fortaleza,Urbana,Médio,2.1,Influenza,Dose Única,2024-05-25,UBS-024,13.0,7.2,Não,Sim
+PAC0831,39,Masculino,Fortaleza,Urbana,Fundamental,1.3,COVID-19,Dose Única,2024-11-01,UBS-026,52.0,3.5,Não,Sim
+PAC0832,18,Masculino,Crato,Urbana,Fundamental,1.0,Hepatite B,Dose Única,2023-11-10,UBS-015,51.0,0.9,Não,Sim
+PAC0833,60,Masculino,Fortaleza,Periurbana,Superior,2.1,COVID-19,2ª Dose,2023-08-13,UBS-010,80.0,1.4,,Sim
+PAC0834,43,Masculino,Juazeiro do Norte,Urbana,Fundamental,6.2,Influenza,2ª Dose,2024-04-19,UBS-021,51.0,8.3,Não,Sim
+PAC0835,41,Feminino,Sobral,Rural,Médio,2.0,Influenza,Dose Única,2023-05-07,UBS-028,7.0,5.7,Não,Não
+PAC0836,90,Masculino,Quixadá,Urbana,Sem escolaridade,1.5,Hepatite B,2ª Dose,2023-10-28,UBS-007,39.0,4.7,Não,Sim
+PAC0837,50,Feminino,Caucaia,Urbana,Médio,,Hepatite B,2ª Dose,2023-03-12,UBS-026,15.0,1.4,Não,Sim
+PAC0838,31,Masculino,Fortaleza,Urbana,Médio,0.8,Influenza,1ª Dose,2024-05-13,UBS-003,98.0,9.6,Não,Não
+PAC0839,37,Feminino,Crato,Rural,Superior,2.3,COVID-19,Reforço,2023-04-22,UBS-002,17.0,16.7,Não,Não
+PAC0840,154,Feminino,Sobral,Rural,Médio,,Febre Amarela,1ª Dose,2024-05-22,UBS-006,21.0,0.7,Não,Não
+PAC0841,47,Masculino,Caucaia,Urbana,Médio,1.4,COVID-19,3ª Dose,2023-06-26,UBS-021,20.0,0.9,Não,Sim
+PAC0842,19,Feminino,Iguatu,Rural,Médio,4.4,Influenza,2ª Dose,2023-08-10,UBS-009,12.0,11.3,Não,Sim
+PAC0843,61,Masculino,Maranguape,Urbana,Médio,3.1,Influenza,2ª Dose,2023-07-27,UBS-010,6.0,9.0,Não,Não
+PAC0844,32,Feminino,Fortaleza,Urbana,Médio,4.4,Febre Amarela,Dose Única,2023-01-19,UBS-004,50.0,5.3,Não,Não
+PAC0845,78,Masculino,Fortaleza,Urbana,Fundamental,,Influenza,1ª Dose,2023-10-21,UBS-027,37.0,15.0,Não,Sim
+PAC0846,64,Masculino,Maracanaú,Urbana,Fundamental,,Influenza,3ª Dose,2023-09-20,UBS-003,8.0,5.7,Não,Sim
+PAC0847,36,Masculino,Itapipoca,Urbana,Superior,3.5,Hepatite B,Dose Única,2023-02-13,UBS-009,,,Não,Não
+PAC0848,68,Feminino,Fortaleza,Urbana,Sem escolaridade,1.1,Hepatite B,Dose Única,2023-05-27,UBS-024,24.0,7.0,Não,Sim
+PAC0849,46,Feminino,Crato,Rural,Fundamental,3.6,COVID-19,1ª Dose,2024-07-10,UBS-022,15.0,5.7,Não,Sim
+PAC0850,60,Feminino,Sobral,Rural,Médio,2.0,Influenza,Reforço,2024-09-29,UBS-017,10.0,21.8,Não,Sim
+PAC0851,-3,Masculino,Fortaleza,Urbana,Médio,,Hepatite B,Dose Única,2024-02-28,UBS-014,44.0,1.7,Não,Sim
+PAC0852,29,Feminino,Crato,Urbana,Médio,2.5,Tétano,Reforço,2024-12-09,UBS-010,29.0,5.1,Não,Sim
+PAC0853,33,Masculino,Quixadá,Urbana,,4.5,Hepatite B,2ª Dose,2023-09-27,UBS-013,20.0,8.1,,Sim
+PAC0854,63,Feminino,Fortaleza,Periurbana,,1.2,Influenza,2ª Dose,2024-01-24,UBS-012,23.0,2.6,Não,Não
+PAC0855,38,Masculino,Caucaia,Urbana,Médio,2.6,COVID-19,Reforço,2023-04-21,UBS-027,6.0,2.9,Não,Sim
+PAC0856,37,Masculino,Juazeiro do Norte,Rural,Superior,1.0,febre amarela,Reforço,2023-03-15,UBS-001,17.0,11.4,Não,Sim
+PAC0857,27,Masculino,Iguatu,Urbana,,2.7,Febre Amarela,2ª Dose,2024-10-18,UBS-028,9.0,3.1,Não,Não
+PAC0858,52,Masculino,Quixadá,Urbana,Fundamental,2.6,COVID-19,1ª Dose,2024-12-31,UBS-022,9.0,5.4,Não,Sim
+PAC0859,82,Feminino,Juazeiro do Norte,Rural,Fundamental,1.9,COVID-19,2ª Dose,2024-03-18,UBS-029,26.0,11.5,Não,Sim
+PAC0860,25,Masculino,Itapipoca,Urbana,Fundamental,1.5,Hepatite B,2ª Dose,2023-11-22,UBS-019,,1.7,,Sim
+PAC0861,45,Feminino,Maracanaú,Urbana,,1.9,COVID-19,1ª Dose,2024-09-29,UBS-019,15.0,,Não,Sim
+PAC0862,70,Masculino,Maracanaú,Periurbana,Fundamental,2.3,COVID-19,1ª Dose,2023-06-16,UBS-006,9.0,6.6,Não,Sim
+PAC0863,43,Feminino,Caucaia,Urbana,Médio,2.6,COVID-19,Reforço,2023-04-01,UBS-013,25.0,3.9,Não,Não
+PAC0864,53,Masculino,Fortaleza,Urbana,Médio,5.8,COVID-19,1ª Dose,2024-07-15,UBS-019,45.0,3.3,Não,Não
+PAC0865,25,Masculino,Caucaia,Urbana,Médio,3.4,Gripe,Dose Única,2024-08-31,UBS-013,32.0,15.9,Não,Não
+PAC0866,52,Feminino,Maracanaú,Urbana,Sem escolaridade,1.7,Hepatite B,1ª Dose,2024-12-30,UBS-027,45.0,1.7,Não,Sim
+PAC0867,41,Masculino,Fortaleza,Periurbana,Médio,3.0,COVID-19,2ª Dose,2024-10-05,UBS-026,20.0,2.4,Não,Sim
+PAC0868,62,Masculino,Iguatu,Urbana,Fundamental,3.5,COVID-19,1ª Dose,2024-11-15,UBS-022,32.0,2.3,Não,Sim
+PAC0869,66,Feminino,Fortaleza,Urbana,Médio,,COVID-19,1ª Dose,2023-06-21,UBS-021,8.0,2.2,Não,Sim
+PAC0870,90,Feminino,Fortaleza,Periurbana,Médio,3.2,Influenza,Dose Única,2023-04-28,UBS-004,13.0,3.7,Não,Sim
+PAC0871,55,Masculino,Maracanaú,Urbana,Médio,1.1,COVID-19,Reforço,2024-02-09,UBS-024,14.0,23.1,Não,Não
+PAC0872,50,Masculino,Crato,Rural,Superior,1.6,Influenza,1ª Dose,2024-07-29,UBS-002,19.0,11.5,Não,Sim
+PAC0873,48,Feminino,Fortaleza,Urbana,Superior,1.1,Hep. B,2ª Dose,2023-09-15,UBS-015,57.0,2.5,Não,Sim
+PAC0874,38,Masculino,Caucaia,Urbana,Médio,2.0,COVID-19,2ª Dose,2023-02-18,UBS-012,46.0,3.2,Não,Sim
+PAC0875,51,Masculino,Quixadá,Rural,Superior,1.8,COVID-19,Reforço,2023-05-06,UBS-030,7.0,,Sim,Sim
+PAC0876,39,Masculino,Caucaia,Urbana,Médio,1.8,COVID-19,Dose Única,2024-09-07,UBS-027,8.0,0.6,Não,Não
+PAC0877,48,Feminino,Caucaia,Urbana,Superior,3.3,Influenza,2ª Dose,2024-04-09,UBS-007,13.0,9.1,Não,Não
+PAC0878,68,Feminino,Maranguape,Rural,Médio,2.3,Febre Amarela,Dose Única,2024-05-12,UBS-020,11.0,11.1,Não,Sim
+PAC0879,26,Masculino,Fortaleza,Urbana,Médio,3.3,COVID-19,Dose Única,2024-02-12,UBS-018,24.0,10.2,Sim,Sim
+PAC0880,65,Masculino,Juazeiro do Norte,Rural,Médio,5.0,Tétano,1ª Dose,2023-07-09,UBS-023,51.0,2.9,Não,Não
+PAC0881,68,Masculino,Juazeiro do Norte,Rural,Sem escolaridade,6.3,COVID-19,2ª Dose,2023-06-07,UBS-013,70.0,3.6,Sim,Não
+PAC0882,42,Feminino,Caucaia,Urbana,Médio,2.1,Febre Amarela,Reforço,2024-08-19,UBS-017,26.0,0.6,Não,Não
+PAC0883,18,Masculino,Caucaia,Urbana,Superior,2.9,Influenza,Dose Única,2023-03-31,UBS-004,41.0,3.0,Não,Sim
+PAC0884,34,Masculino,Fortaleza,Urbana,Médio,2.1,Hep. B,2ª Dose,2024-08-10,UBS-025,19.0,3.6,Não,Sim
+PAC0885,68,Feminino,Caucaia,Periurbana,,,Influenza,2ª Dose,2023-04-28,UBS-014,9.0,12.4,Não,Sim
+PAC0886,44,Masculino,Fortaleza,Urbana,Fundamental,3.4,Influenza,2ª Dose,2023-05-27,UBS-020,19.0,11.7,Não,Sim
+PAC0887,27,Feminino,Itapipoca,Urbana,Superior,1.6,Febre Amarela,2ª Dose,2023-11-28,UBS-028,21.0,17.4,Não,Não
+PAC0888,35,Masculino,Juazeiro do Norte,Rural,Superior,1.7,Febre Amarela,Dose Única,2023-10-21,UBS-013,32.0,11.3,Não,Sim
+PAC0889,60,Masculino,Juazeiro do Norte,Rural,Fundamental,4.5,Influenza,2ª Dose,2023-12-03,UBS-003,9.0,0.5,Não,Sim
+PAC0890,54,Masculino,Iguatu,Rural,Superior,1.7,COVID-19,Dose Única,2023-07-20,UBS-026,14.0,5.6,Não,Sim
+PAC0891,40,Feminino,Crato,Urbana,Superior,2.1,COVID-19,Reforço,2023-05-30,UBS-026,14.0,0.9,Não,Não
+PAC0892,38,Feminino,Fortaleza,Urbana,Fundamental,3.1,Febre Amarela,1ª Dose,2023-01-29,UBS-018,596.0,2.1,Não,Sim
+PAC0893,37,Feminino,Quixadá,Rural,Superior,2.0,Influenza,2ª Dose,2023-07-18,UBS-014,16.0,4.8,Não,Sim
+PAC0894,28,Masculino,Fortaleza,Periurbana,Fundamental,4.8,Influenza,2ª Dose,2024-05-25,UBS-015,33.0,6.5,Não,Sim
+PAC0895,74,Feminino,Fortaleza,Urbana,Médio,3.7,Hepatite B,Dose Única,2024-09-24,UBS-003,32.0,5.8,Não,Sim
+PAC0896,39,Masculino,Itapipoca,Urbana,Médio,1.4,F. Amarela,1ª Dose,2023-03-09,UBS-001,11.0,0.8,Não,Sim
+PAC0897,66,Masculino,Maracanaú,Periurbana,Médio,1.7,Hepatite B,3ª Dose,2023-01-30,UBS-026,21.0,1.0,Não,Sim
+PAC0898,72,Feminino,Juazeiro do Norte,Rural,Médio,3.0,Febre Amarela,Reforço,2023-12-06,UBS-024,49.0,1.2,Não,Não
+PAC0899,62,Masculino,Fortaleza,Urbana,Médio,2.2,Febre Amarela,2ª Dose,2023-10-04,UBS-017,17.0,1.0,Sim,Sim
+PAC0900,37,Masculino,Maracanaú,Urbana,Superior,0.8,Influenza,Reforço,2023-03-19,UBS-003,63.0,1.5,Não,Sim
+PAC0901,52,Masculino,Caucaia,Urbana,Superior,1.4,COVID-19,Reforço,2023-08-27,UBS-014,9.0,6.3,Não,Não
+PAC0902,44,Masculino,Iguatu,Rural,Médio,2.5,Febre Amarela,1ª Dose,2023-02-16,UBS-003,6.0,9.4,Não,Não
+PAC0903,28,Masculino,Fortaleza,Urbana,Médio,3.5,Influenza,1ª Dose,2023-09-23,UBS-013,49.0,3.1,Não,Não
+PAC0904,50,Feminino,Iguatu,Rural,Sem escolaridade,3.5,Tétano,Reforço,2024-08-22,UBS-015,42.0,6.4,Não,Sim
+PAC0905,23,Masculino,Maracanaú,Urbana,Médio,5.9,COVID-19,Reforço,2023-12-19,UBS-018,103.0,1.6,Não,Sim
+PAC0906,66,Feminino,Maranguape,Urbana,Superior,1.6,COVID-19,1ª Dose,2024-04-17,UBS-014,27.0,,Não,Sim
+PAC0907,36,Feminino,Crato,Urbana,Fundamental,,Tétano,1ª Dose,2024-10-19,UBS-021,60.0,2.7,Não,Não
+PAC0908,48,Masculino,Crato,Rural,Superior,2.2,Hepatite B,1ª Dose,2023-01-17,UBS-026,40.0,9.8,Sim,Não
+PAC0909,50,Masculino,Caucaia,Urbana,Superior,1.0,Influenza,Reforço,2024-01-29,UBS-003,,15.0,Não,Sim
+PAC0910,-2,Masculino,Fortaleza,Urbana,Médio,2.2,Febre Amarela,1ª Dose,2023-02-14,UBS-019,21.0,10.5,Não,Sim
+PAC0911,55,Feminino,Fortaleza,Urbana,Médio,2.0,Hepatite B,2ª Dose,2023-12-25,UBS-008,14.0,0.8,Não,Sim
+PAC0912,36,Masculino,Maranguape,Rural,Médio,3.3,Influenza,Dose Única,2023-07-18,UBS-004,59.0,5.8,Não,Sim
+PAC0913,60,Feminino,Maranguape,Urbana,Médio,3.6,COVID-19,1ª Dose,2023-06-16,UBS-004,16.0,1.1,Não,Sim
+PAC0914,20,Masculino,Juazeiro do Norte,Urbana,Médio,2.7,Febre Amarela,3ª Dose,2023-01-14,UBS-019,488.0,0.5,Não,Sim
+PAC0915,47,Feminino,Fortaleza,Urbana,Superior,2.2,F. Amarela,1ª Dose,2023-01-02,UBS-011,16.0,0.8,Não,Sim
+PAC0916,79,Masculino,Juazeiro do Norte,Rural,Médio,2.7,COVID-19,Reforço,2023-11-03,UBS-001,21.0,12.9,Não,Sim
+PAC0917,26,Masculino,Sobral,Urbana,,1.5,Febre Amarela,1ª Dose,2024-06-16,UBS-008,17.0,12.5,Não,Sim
+PAC0918,32,Feminino,Juazeiro do Norte,Urbana,Médio,2.1,Febre Amarela,Dose Única,2024-10-26,UBS-015,5.0,1.8,Não,Sim
+PAC0919,54,Feminino,Itapipoca,Rural,Fundamental,2.2,Influenza,Dose Única,2023-08-12,UBS-001,47.0,4.5,Não,Sim
+PAC0920,48,Masculino,Quixadá,Rural,Sem escolaridade,2.1,Hepatite B,1ª Dose,2023-11-11,UBS-007,16.0,,Sim,Não
+PAC0921,51,Feminino,Fortaleza,Urbana,Superior,2.0,Influenza,1ª Dose,2023-04-09,UBS-021,22.0,3.9,Não,Sim
+PAC0922,53,Feminino,Juazeiro do Norte,Rural,Fundamental,1.6,COVID-19,2ª Dose,2024-10-25,UBS-020,7.0,3.0,Não,Sim
+PAC0923,56,Feminino,Juazeiro do Norte,Rural,Médio,1.3,Hepatite B,1ª Dose,2024-11-20,UBS-020,,3.8,Não,Sim
+PAC0924,64,Feminino,Caucaia,Urbana,Médio,2.0,Febre Amarela,Dose Única,2024-01-11,UBS-024,10.0,8.3,Não,Sim
+PAC0925,52,Masculino,Fortaleza,Urbana,Sem escolaridade,3.0,Hepatite B,Dose Única,2023-05-21,UBS-011,29.0,3.7,Não,Sim
+PAC0926,40,Masculino,Fortaleza,Urbana,Sem escolaridade,0.9,Influenza,2ª Dose,2024-03-02,UBS-027,7.0,,Não,Sim
+PAC0927,57,Masculino,Iguatu,Rural,Superior,1.7,COVID-19,3ª Dose,2023-10-30,UBS-029,52.0,3.3,Não,Sim
+PAC0928,79,Feminino,Juazeiro do Norte,Rural,Médio,6.3,COVID-19,3ª Dose,2024-09-29,UBS-014,9.0,2.0,Não,Não
+PAC0929,42,Feminino,Maracanaú,Urbana,Médio,2.0,Influenza,Dose Única,2023-03-27,UBS-022,9.0,2.5,,Não
+PAC0930,27,Masculino,Iguatu,Urbana,Superior,2.4,COVID-19,2ª Dose,2024-04-30,UBS-016,9.0,0.9,Sim,Sim
+PAC0931,64,Masculino,Itapipoca,Urbana,Fundamental,5.6,Influenza,1ª Dose,2023-06-01,UBS-014,5.0,3.9,Não,Não
+PAC0932,42,Feminino,Fortaleza,Urbana,Fundamental,2.6,Gripe,1ª Dose,2024-11-25,UBS-012,34.0,1.3,Não,Sim
+PAC0933,18,Feminino,Maracanaú,Urbana,Médio,,Febre Amarela,2ª Dose,2023-01-25,UBS-017,46.0,8.8,Não,Sim
+PAC0934,60,Feminino,Juazeiro do Norte,Rural,Médio,1.4,COVID-19,2ª Dose,2024-04-18,UBS-014,24.0,3.2,Sim,Sim
+PAC0935,35,Masculino,Maranguape,Rural,Médio,2.6,Influenza,2ª Dose,2023-08-20,UBS-010,,7.7,Não,Sim
+PAC0936,43,Masculino,Itapipoca,Urbana,Superior,2.2,Influenza,1ª Dose,2023-03-28,UBS-024,11.0,15.9,Não,Sim
+PAC0937,50,Masculino,Crato,Rural,Superior,3.5,COVID-19,Dose Única,2024-04-02,UBS-029,,10.0,Não,Sim
+PAC0938,48,Feminino,Caucaia,Periurbana,Sem escolaridade,4.2,COVID-19,1ª Dose,2024-01-18,UBS-014,66.0,15.6,Não,Não
+PAC0939,57,Masculino,Maranguape,Urbana,,2.3,COVID-19,1ª Dose,2024-02-28,UBS-018,,4.7,,Sim
+PAC0940,37,Feminino,Fortaleza,Urbana,Superior,,Febre Amarela,2ª Dose,2024-11-14,UBS-022,31.0,1.4,Não,Sim
+PAC0941,54,Masculino,Fortaleza,Urbana,Fundamental,0.9,COVID-19,1ª Dose,2024-09-08,UBS-009,16.0,14.2,Não,Sim
+PAC0942,40,Feminino,Caucaia,Urbana,Fundamental,0.7,Hepatite B,3ª Dose,2024-07-15,UBS-017,12.0,10.6,Não,Sim
+PAC0943,58,Feminino,Fortaleza,Urbana,Médio,3.8,Tétano,2ª Dose,2023-03-06,UBS-006,17.0,10.5,Não,Sim
+PAC0944,56,Feminino,Fortaleza,Urbana,Médio,0.6,Febre Amarela,2ª Dose,2024-01-09,UBS-008,6.0,6.4,Não,Não
+PAC0945,28,Masculino,Maranguape,Urbana,,2.6,COVID-19,2ª Dose,2023-02-03,UBS-026,37.0,5.4,Não,Sim
+PAC0946,64,Masculino,Quixadá,Urbana,Fundamental,2.0,Tétano,1ª Dose,2024-07-17,UBS-013,10.0,0.6,Não,Não
+PAC0947,35,Masculino,Caucaia,Urbana,Médio,4.1,COVID-19,1ª Dose,2024-06-24,UBS-018,30.0,,Não,Sim
+PAC0948,59,Feminino,Caucaia,Urbana,Médio,2.2,Influenza,Reforço,2024-12-01,UBS-005,6.0,1.0,Não,Não
+PAC0949,51,Feminino,Caucaia,Urbana,Fundamental,5.5,Febre Amarela,2ª Dose,2024-05-19,UBS-006,67.0,2.0,Sim,Não
+PAC0950,78,Feminino,Caucaia,Urbana,Fundamental,,Hepatite B,2ª Dose,2024-01-16,UBS-021,9.0,4.5,Não,Não
+PAC0951,40,Feminino,Fortaleza,Urbana,Médio,3.9,Influenza,1ª Dose,2023-07-26,UBS-019,47.0,3.5,Não,Não
+PAC0952,38,Feminino,Iguatu,Urbana,Superior,,COVID-19,2ª Dose,2023-10-02,UBS-004,38.0,0.6,Não,Sim
+PAC0953,44,Masculino,Fortaleza,Urbana,Superior,0.7,Influenza,3ª Dose,2024-04-10,UBS-007,73.0,9.2,Não,Sim
+PAC0954,39,Feminino,Juazeiro do Norte,Rural,Fundamental,2.2,Influenza,3ª Dose,2023-04-08,UBS-004,17.0,11.1,Não,Sim
+PAC0955,59,Masculino,Fortaleza,Urbana,Médio,1.1,COVID-19,Dose Única,2024-05-01,UBS-025,30.0,6.2,Não,Sim
+PAC0956,18,Masculino,Maranguape,Rural,Médio,2.2,Tétano,1ª Dose,2023-06-30,UBS-011,14.0,4.4,Não,Não
+PAC0957,26,Feminino,Itapipoca,Rural,Superior,1.8,Tétano,1ª Dose,2024-04-20,UBS-012,9.0,16.7,Não,Sim
+PAC0958,25,Masculino,Quixadá,Rural,Médio,,Febre Amarela,Dose Única,2023-08-20,UBS-014,16.0,1.1,,Sim
+PAC0959,62,Masculino,Itapipoca,Rural,Sem escolaridade,1.3,Influenza,Reforço,2023-11-14,UBS-013,8.0,7.2,Não,Sim
+PAC0960,75,Feminino,Caucaia,Urbana,Médio,2.8,Hepatite B,1ª Dose,2023-05-08,UBS-029,85.0,1.2,Não,Não
+PAC0961,43,Masculino,Fortaleza,Urbana,Fundamental,,Tétano,2ª Dose,2024-09-01,UBS-010,7.0,2.9,Não,Não
+PAC0962,41,Feminino,Crato,Rural,Fundamental,2.0,Febre Amarela,1ª Dose,2024-05-15,UBS-018,22.0,4.9,Não,Sim
+PAC0963,46,Masculino,Caucaia,Urbana,Médio,2.8,Influenza,1ª Dose,2024-12-25,UBS-016,24.0,7.2,Não,Sim
+PAC0964,65,Masculino,Maracanaú,Periurbana,Superior,1.4,COVID-19,2ª Dose,2024-03-03,UBS-005,20.0,0.5,Não,Sim
+PAC0965,28,Masculino,Fortaleza,Urbana,Fundamental,1.8,COVID-19,1ª Dose,2023-09-13,UBS-008,26.0,2.0,Não,Sim
+PAC0966,49,Masculino,Fortaleza,Periurbana,Médio,,Influenza,Dose Única,2023-04-14,UBS-014,7.0,4.4,Não,Sim
+PAC0967,62,Feminino,Maracanaú,Urbana,Fundamental,7.2,Hepatite B,2ª Dose,2024-12-06,UBS-005,21.0,4.3,Não,Não
+PAC0968,54,Masculino,Maracanaú,Urbana,Superior,4.1,Febre Amarela,1ª Dose,2024-08-09,UBS-026,,5.6,Não,Sim
+PAC0969,48,Feminino,Itapipoca,Urbana,Médio,5.1,COVID-19,1ª Dose,2023-10-18,UBS-028,61.0,2.3,Não,Sim
+PAC0970,63,Masculino,Fortaleza,Urbana,Fundamental,4.1,COVID-19,Dose Única,2024-03-31,UBS-024,33.0,4.4,Não,Sim
+PAC0971,18,Feminino,Maracanaú,Urbana,Fundamental,1.6,Influenza,1ª Dose,2024-06-07,UBS-008,76.0,1.6,Não,Não
+PAC0972,-6,Feminino,Fortaleza,Urbana,Médio,1.0,Influenza,3ª Dose,2024-04-14,UBS-025,5.0,1.5,Não,Não
+PAC0973,33,Feminino,Fortaleza,Urbana,Fundamental,1.8,COVID-19,2ª Dose,2023-09-26,UBS-026,11.0,4.8,Não,Sim
+PAC0974,18,Masculino,Juazeiro do Norte,Rural,Sem escolaridade,2.8,Hepatite B,3ª Dose,2024-01-01,UBS-006,9.0,6.3,Não,Não
+PAC0975,54,Masculino,Fortaleza,Urbana,Médio,1.9,Influenza,2ª Dose,2024-03-29,UBS-016,5.0,1.1,Não,Sim
+PAC0976,69,Masculino,Fortaleza,Urbana,Médio,0.7,Hepatite B,1ª Dose,2023-09-27,UBS-028,10.0,1.2,Não,Sim
+PAC0977,42,Feminino,Caucaia,Urbana,Médio,3.2,Influenza,1ª Dose,2024-02-27,UBS-004,27.0,4.7,Não,Sim
+PAC0978,62,Masculino,Caucaia,Urbana,Fundamental,1.0,COVID-19,1ª Dose,2023-10-06,UBS-012,10.0,2.1,Não,Não
+PAC0979,74,Feminino,Fortaleza,Urbana,Médio,1.8,Influenza,2ª Dose,2023-03-04,UBS-011,19.0,3.0,Não,Sim
+PAC0980,68,Feminino,Fortaleza,Periurbana,Médio,5.3,Febre Amarela,Dose Única,2024-07-28,UBS-003,48.0,3.1,Não,Não
+PAC0981,74,Masculino,Fortaleza,Periurbana,Sem escolaridade,,COVID-19,1ª Dose,2024-06-23,UBS-012,28.0,1.5,Sim,Sim
+PAC0982,58,Feminino,Fortaleza,Urbana,Médio,3.8,Febre Amarela,1ª Dose,2023-12-02,UBS-030,,0.5,Não,Não
+PAC0983,46,Masculino,Sobral,Urbana,Fundamental,2.6,Influenza,2ª Dose,2024-11-24,UBS-005,14.0,,Não,Não
+PAC0984,18,Masculino,Caucaia,Periurbana,Superior,1.3,Febre Amarela,3ª Dose,2023-08-25,UBS-006,17.0,6.8,Não,Sim
+PAC0985,40,Feminino,Caucaia,Urbana,Médio,3.2,Febre Amarela,Reforço,2024-01-16,UBS-019,8.0,6.4,Não,Não
+PAC0986,29,Feminino,Caucaia,Urbana,,2.2,COVID-19,3ª Dose,2023-12-23,UBS-018,25.0,4.5,Não,Sim
+PAC0987,84,Feminino,Crato,Urbana,Fundamental,1.1,Hepatite B,2ª Dose,2024-11-09,UBS-016,14.0,6.5,Não,Não
+PAC0988,41,Masculino,Iguatu,Urbana,Fundamental,1.0,COVID-19,3ª Dose,2023-10-17,UBS-023,43.0,14.2,Não,Não
+PAC0989,47,Masculino,Itapipoca,Urbana,Médio,2.7,Febre Amarela,Reforço,2024-10-16,UBS-011,33.0,6.0,Não,Sim
+PAC0990,54,Feminino,Itapipoca,Rural,Médio,6.5,Influenza,Dose Única,2023-09-16,UBS-005,23.0,2.0,Não,Não
+PAC0991,45,Feminino,Maracanaú,Urbana,,1.3,Influenza,2ª Dose,2024-11-22,UBS-009,14.0,4.7,Não,Sim
+PAC0992,75,Feminino,Crato,Rural,Sem escolaridade,1.4,Hepatite B,1ª Dose,2023-07-29,UBS-003,9.0,3.4,Não,Não
+PAC0993,33,Masculino,Maracanaú,Urbana,Fundamental,2.7,Febre Amarela,1ª Dose,2023-12-01,UBS-030,34.0,4.6,Não,Não
+PAC0994,48,Feminino,Fortaleza,Urbana,Médio,1.2,COVID-19,2ª Dose,2024-03-31,UBS-008,18.0,4.1,Não,Sim
+PAC0995,31,Masculino,Fortaleza,Urbana,Fundamental,7.2,Hepatite B,Dose Única,2024-12-29,UBS-006,10.0,10.3,Não,Sim
+PAC0996,21,Masculino,Caucaia,Urbana,Médio,1.4,Influenza,2ª Dose,2024-01-26,UBS-004,9.0,5.8,Não,Sim
+PAC0997,33,Feminino,Iguatu,Rural,Fundamental,1.7,Influenza,1ª Dose,2023-07-31,UBS-012,8.0,1.5,Não,Não
+PAC0998,44,Masculino,Maracanaú,Urbana,Médio,1.5,Hepatite B,Dose Única,2024-09-13,UBS-012,35.0,0.8,Não,Não
+PAC0999,37,Feminino,Itapipoca,Rural,Fundamental,3.6,Influenza,Dose Única,2024-09-03,UBS-025,10.0,3.3,Não,Sim
+PAC1000,32,Masculino,Caucaia,Urbana,Médio,6.6,COVID-19,1ª Dose,2023-05-03,UBS-021,19.0,0.6,Não,Não
